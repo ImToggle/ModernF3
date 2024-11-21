@@ -40,7 +40,6 @@ fun refreshKeyBinds() {
 }
 
 fun shouldPause(key: Int, state: Boolean): Boolean {
-    if (state) UChat.chat(key)
     if (!state && key == 61) {
         if (hasAction) {
             hasAction = false
@@ -49,7 +48,7 @@ fun shouldPause(key: Int, state: Boolean): Boolean {
             mc.gameSettings.showDebugProfilerChart = GuiScreen.isShiftKeyDown()
             mc.gameSettings.showLagometer = GuiScreen.isAltKeyDown()
         }
-    } else if (state && functionKeys.contains(key) && Keyboard.isKeyDown(61)) {
+    } else if (!hasAction && state && functionKeys.contains(key) && Keyboard.isKeyDown(61)) {
         hasAction = true
     }
     isPausing = shouldPause && functionKeys.contains(key)
