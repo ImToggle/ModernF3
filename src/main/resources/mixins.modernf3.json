@@ -6,5 +6,8 @@
   "injectors": {
     "maxShiftBy": 5
   },
-  "verbose": true
+  "verbose": true,
+  "client": [
+    "MinecraftMixin"
+  ]
 }
