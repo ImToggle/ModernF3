@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Pokročilý popis: skryté
+debug.advanced_tooltips.on=Pokročilý popis: zobrazené
+debug.chunk_boundaries.off=Hranice chunkov: skryté
+debug.chunk_boundaries.on=Hranice chunkov: zobrazené
+debug.pause_focus.on=Pauza pri strate fokusu: povolené
+debug.prefix=[Ladenie]:
+debug.reload_chunks.message=Opätovné načítanie všetkých chunkov
+debug.reload_resourcepacks.message=Zdrojové balíky boli znova načítané
+debug.show_hitboxes.off=Hitboxy: skryté
+debug.show_hitboxes.on=Hitboxy: zobrazené

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Avancerade inforutor: Döljs
+debug.advanced_tooltips.on=Avancerade inforutor: Visas
+debug.chunk_boundaries.off=Datablocksgränser: Döljs
+debug.chunk_boundaries.on=Datablocksgränser: Visas
+debug.pause_focus.on=Pausa vid förlorat fokus: PÅ
+debug.prefix=[Felsökning]:
+debug.reload_chunks.message=Uppdaterar alla datablock
+debug.reload_resourcepacks.message=Uppdaterade resurspaket
+debug.show_hitboxes.off=Hitboxar: Döljs
+debug.show_hitboxes.on=Hitboxar: Visas

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=高度な情報：非表示
+debug.advanced_tooltips.on=高度な情報：表示
+debug.chunk_boundaries.off=チャンクの境界：非表示
+debug.chunk_boundaries.on=チャンクの境界：表示
+debug.pause_focus.on=フォーカスが外れた時にポーズ：有効
+debug.prefix=［デバッグ］：
+debug.reload_chunks.message=すべてのチャンクを再読み込み中
+debug.reload_resourcepacks.message=リソースパックを再読み込みしました
+debug.show_hitboxes.off=当たり判定：非表示
+debug.show_hitboxes.on=当たり判定：表示

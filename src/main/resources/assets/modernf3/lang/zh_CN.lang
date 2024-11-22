@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=高级提示框：隐藏
+debug.advanced_tooltips.on=高级提示框：显示
+debug.chunk_boundaries.off=区块边界：隐藏
+debug.chunk_boundaries.on=区块边界：显示
+debug.pause_focus.on=失去焦点时暂停：启用
+debug.prefix=[调试]：
+debug.reload_chunks.message=重新加载所有区块中
+debug.reload_resourcepacks.message=已重新加载资源包
+debug.show_hitboxes.off=判定箱：隐藏
+debug.show_hitboxes.on=判定箱：显示

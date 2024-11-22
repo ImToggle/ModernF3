@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descrizioni avanzate: nascoste
+debug.advanced_tooltips.on=Descrizioni avanzate: visibili
+debug.chunk_boundaries.off=Confini dei chunk: nascosti
+debug.chunk_boundaries.on=Confini dei chunk: visibili
+debug.pause_focus.on=Pausa alla perdita dello stato attivo: attivata
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Ricaricamento di tutti i chunk...
+debug.reload_resourcepacks.message=Pacchetti di risorse ricaricati
+debug.show_hitboxes.off=Scatole di collisione: nascoste
+debug.show_hitboxes.on=Scatole di collisione: visibili

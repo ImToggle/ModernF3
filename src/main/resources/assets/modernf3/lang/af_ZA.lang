@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Gevorderde gereedskapstippe: verborge
+debug.advanced_tooltips.on=Gevorderde gereedskapstippe: gewys
+debug.chunk_boundaries.off=Chunk grense: verborge
+debug.chunk_boundaries.on=Stukgrense: sigbaar
+debug.pause_focus.on=Pouse op verlore fokus: aangeskakel
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Herlaai al die stukke
+debug.reload_resourcepacks.message=Herlaai hulpbronpakkette
+debug.show_hitboxes.off=Trefbokse: Versteek
+debug.show_hitboxes.on=Trefbokse: Getoon

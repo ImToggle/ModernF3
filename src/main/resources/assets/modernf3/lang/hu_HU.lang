@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Technikai eszközleírások: ki
+debug.advanced_tooltips.on=Technikai eszközleírások: be
+debug.chunk_boundaries.off=Chunkhatárok: ki
+debug.chunk_boundaries.on=Chunkhatárok: be
+debug.pause_focus.on=Szüneteltetés fókusz elvesztésekor: be
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Minden chunk újratöltése
+debug.reload_resourcepacks.message=Forráscsomagok újratöltve
+debug.show_hitboxes.off=Határoló téglatestek: ki
+debug.show_hitboxes.on=Határoló téglatestek: be

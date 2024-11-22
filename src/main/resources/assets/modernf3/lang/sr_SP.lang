@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Напредни описи алата: скривени
+debug.advanced_tooltips.on=Напредни описи алата: приказани
+debug.chunk_boundaries.off=Границе чанкова: Скривене
+debug.chunk_boundaries.on=Границе чанкова: Видљиве
+debug.pause_focus.on=Пауза на изгубљеном фокусу: омогућена
+debug.prefix=[Дебаг]:
+debug.reload_chunks.message=Освежи све чанкове
+debug.reload_resourcepacks.message=Пакети ресурса поново учитани
+debug.show_hitboxes.off=Ширина ударца: сакривена
+debug.show_hitboxes.on=Ширина ударца: приказана

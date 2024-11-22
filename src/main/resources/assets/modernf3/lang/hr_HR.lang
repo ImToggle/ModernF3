@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Napredni opisi predmeta: skriveni
+debug.advanced_tooltips.on=Napredni opisi predmeta: prikazani
+debug.chunk_boundaries.off=Granice dijelova svijeta: skrivene
+debug.chunk_boundaries.on=Granice dijelova svijeta: prikazane
+debug.pause_focus.on=Pauziraj na izgubljeni fokus: omogućeno
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Ponovno učitavam sve dijelove svijeta
+debug.reload_resourcepacks.message=Paketi resursa ponovno su učitani
+debug.show_hitboxes.off=Područja udarca: skrivena
+debug.show_hitboxes.on=Područja udarca: prikazana

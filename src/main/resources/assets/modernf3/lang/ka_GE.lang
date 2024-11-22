@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=გაფართოებული მინიშნებები: დამალული
+debug.advanced_tooltips.on=გაფართოებული მინიშნებები: ნაჩვენები
+debug.chunk_boundaries.off=უჯრის საზღვრები: დამალული
+debug.chunk_boundaries.on=უჯრის საზღრვები: ნაჩვენები
+debug.pause_focus.on=პაუზა ფანჯრის ფოკუსის დაკარგვისას: ჩართული
+debug.prefix=[Debug]:
+debug.reload_chunks.message=მიმდინარეობს ყველა უჯრის გადატვირთვა
+debug.reload_resourcepacks.message=გადაიტვირთა რესურთა კრებულები
+debug.show_hitboxes.off=ჰითბოქსები: დამალული
+debug.show_hitboxes.on=ჰითბოქსები: ნაჩვენები

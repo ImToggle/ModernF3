@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Papildu rīku informācija: paslēpta
+debug.advanced_tooltips.on=Papildu rīku informācija: parādīta
+debug.chunk_boundaries.off=Gabalu barjeras: paslēptas
+debug.chunk_boundaries.on=Gabalu barjeras: parādītas
+debug.pause_focus.on=Nopauzēts uz pēdējo fokusu: ieslēgts
+debug.prefix=[Atkļūdošana]:
+debug.reload_chunks.message=Pārlādē visus gabalus
+debug.reload_resourcepacks.message=Pārlādētas resursu pakas
+debug.show_hitboxes.off=Malu vienības: paslēptas
+debug.show_hitboxes.on=Malu vienības: parādītas

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Anúbrense les descripciones avanzaes
+debug.advanced_tooltips.on=Amuésense les descripciones avanzaes
+debug.chunk_boundaries.off=Anúbrense los berbesos de los chunks
+debug.chunk_boundaries.on=Amuésense los berbesos de los chunks
+debug.pause_focus.on=Activóse la posa al perder el focu
+debug.prefix=[Depuración]:
+debug.reload_chunks.message=Recargando tolos chunks
+debug.reload_resourcepacks.message=Recargáronse los paquetes de recursos
+debug.show_hitboxes.off=Caxes de colisión: anubríes
+debug.show_hitboxes.on=Caxes de colisión: amosaes

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Tips Alat Lanjutan: Tersembunyi
+debug.advanced_tooltips.on=Tips Alat Lanjutan: Tampak
+debug.chunk_boundaries.off=Bingkah Perbatasan: Tersembunyi
+debug.chunk_boundaries.on=Batas Bingkah: Tampak
+debug.pause_focus.on=Jeda saat hilang fokus: Diaktifkan
+debug.prefix=[Awakutu]:
+debug.reload_chunks.message=Muat ulang semua Bingkah
+debug.reload_resourcepacks.message=Memuat ulang Paket Daya
+debug.show_hitboxes.off=Kotak Pukul: Tersembunyi
+debug.show_hitboxes.on=Kotak Pukul: Tampak

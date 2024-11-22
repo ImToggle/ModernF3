@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Ընդլայնված գործիքներ. Թաքնված
+debug.advanced_tooltips.on=Ընդլայնված գործիքների ցուցումներ. Ցուցադրված
+debug.chunk_boundaries.off=Մասիի սահմաններ՝ Թաքնված
+debug.chunk_boundaries.on=Մասի սահմաններ՝ Ցույց է տրված
+debug.pause_focus.on=Դադարել ֆոկուսը կորցնելուց՝ միացած
+debug.prefix=[Debug]՝
+debug.reload_chunks.message=Վերաբեռնում են բոլոր մասերը
+debug.reload_resourcepacks.message=Պաշարների փաթեթները վերաբեռնվել են
+debug.show_hitboxes.off=Հարված տուփեր. Թաքնված
+debug.show_hitboxes.on=Ցույց տրված

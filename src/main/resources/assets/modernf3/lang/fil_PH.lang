@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Masalimuot na mga tooltip: itinatago
+debug.advanced_tooltips.on=Masalimuot na mga tooltip: ipinapakita
+debug.chunk_boundaries.off=Border ng tipak: itinatago
+debug.chunk_boundaries.on=Border ng tipak: ipinapakita
+debug.pause_focus.on=Patigilin sa pagkawala ng pokus: pinagana
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Ini-re-reload ang lahat ng mga tipak
+debug.reload_resourcepacks.message=Inulit ang mga resource pack
+debug.show_hitboxes.off=Hitbox: itinatago
+debug.show_hitboxes.on=Hitbox: ipinapakita

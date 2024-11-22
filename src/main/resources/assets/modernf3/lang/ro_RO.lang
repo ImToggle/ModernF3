@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descrieri avansate: ascunse
+debug.advanced_tooltips.on=Descrieri avansate: vizibile
+debug.chunk_boundaries.off=Granițe de chunkuri: ascunse
+debug.chunk_boundaries.on=Granițe de chunkuri: vizibile
+debug.pause_focus.on=Pauză la schimbarea ferestrei: activată
+debug.prefix=[Depanare]:
+debug.reload_chunks.message=Se reîncarcă toate chunkurile
+debug.reload_resourcepacks.message=S-au reîncărcat pachetele de resurse
+debug.show_hitboxes.off=Cutii de coliziune: ascunse
+debug.show_hitboxes.on=Cutii de coliziune: vizibile

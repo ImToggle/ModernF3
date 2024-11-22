@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Advanced tooltips: hidden
+debug.advanced_tooltips.on=Advanced tooltips: shown
+debug.chunk_boundaries.off=Chunk borders: hidden
+debug.chunk_boundaries.on=Chunk borders: shown
+debug.pause_focus.on=Pause on lost focus: enabled
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Reloading all chunks
+debug.reload_resourcepacks.message=Reloaded resource packs
+debug.show_hitboxes.off=Hitboxes: hidden
+debug.show_hitboxes.on=Hitboxes: shown

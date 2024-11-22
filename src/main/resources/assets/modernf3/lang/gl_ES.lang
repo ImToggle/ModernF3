@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descripcións avanzadas: non
+debug.advanced_tooltips.on=Descripcións avanzadas: si
+debug.chunk_boundaries.off=Bordos do chunk: agochar
+debug.chunk_boundaries.on=Bordos de chunks: ver
+debug.pause_focus.on=Pausar ao minimizar xanela: sí
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Recargando todos os chunks
+debug.reload_resourcepacks.message=Paquetes de recursos recargados
+debug.show_hitboxes.off=Caixas de colisións: non
+debug.show_hitboxes.on=Caixas de colisións: si

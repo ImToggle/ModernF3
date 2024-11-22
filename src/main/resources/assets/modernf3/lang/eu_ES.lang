@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Deskripzio aurreratuak: ezkutatuta
+debug.advanced_tooltips.on=Deskripzio aurreratuak: erakutsita
+debug.chunk_boundaries.off=Chunken mugak: ezkutatuta
+debug.chunk_boundaries.on=Chunken mugak: erakutsita
+debug.pause_focus.on=Gelditu leihoa aldatzerakoan: gaituta
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Chunk denak birkargatzen
+debug.reload_resourcepacks.message=Baliabide-paketeak birkargatuta
+debug.show_hitboxes.off=Talka kutxak: ezkutatuta
+debug.show_hitboxes.on=Talka-kutxak: erakutsita

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Avanserte verktyråd: gøymd
+debug.advanced_tooltips.on=Avanserte verktyråd: vist
+debug.chunk_boundaries.off=Verdsbitgrenser: gøymd
+debug.chunk_boundaries.on=Verdsbitgrenser: vist
+debug.pause_focus.on=Avbrot ved mist fokus: slege på
+debug.prefix=[Feilsøk]:
+debug.reload_chunks.message=Lastar alle verdsbitar å nyo
+debug.reload_resourcepacks.message=Lasta tilfangspakkar å nyo
+debug.show_hitboxes.off=Hittboksar: gøymde
+debug.show_hitboxes.on=Hittboksar: viste

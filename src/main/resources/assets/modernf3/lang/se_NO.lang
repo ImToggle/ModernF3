@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Dárkkileappot reaidodieđut: čihkkon
+debug.advanced_tooltips.on=Dárkkileappot reaidodieđut: oidnosis
+debug.chunk_boundaries.off=Laiggusráját: čihkon
+debug.chunk_boundaries.on=Laiggusráját: oidnosis
+debug.pause_focus.on=Bisset go it geahča speala: alde
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Ođasmahttimin buot laigosiid
+debug.reload_resourcepacks.message=Ođasmahtii resursapáhkaid
+debug.show_hitboxes.off=Hitboksat: Čihkosis
+debug.show_hitboxes.on=Hitboksat: Oidnosis

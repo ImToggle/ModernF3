@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Προηγμένα εργαλεία: κρυμμένα
+debug.advanced_tooltips.on=Προηγμένα εργαλεία: ορατά
+debug.chunk_boundaries.off=Όρια τμημάτων: κρυμμένα
+debug.chunk_boundaries.on=Όρια τμημάτων: ορατά
+debug.pause_focus.on=Παύση σε χαμένη εστίαση: ενεργοποιημένη
+debug.prefix=[Αποσφαλμάτωση]:
+debug.reload_chunks.message=Επαναφόρτωση όλων των τμημάτων
+debug.reload_resourcepacks.message=Επαναφορτώθηκαν τα πακέτα πόρων
+debug.show_hitboxes.off=Πλαίσια οντότητας: κρυμμένα
+debug.show_hitboxes.on=Πλαίσια οντότητας: ορατά

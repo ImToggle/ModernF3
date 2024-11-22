@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=進階提示：隱藏
+debug.advanced_tooltips.on=進階提示：顯示
+debug.chunk_boundaries.off=區塊邊界：隱藏
+debug.chunk_boundaries.on=區塊邊界：顯示
+debug.pause_focus.on=在失去焦點時暫停：啟用
+debug.prefix=[除錯]:
+debug.reload_chunks.message=正在重新載入所有區塊
+debug.reload_resourcepacks.message=已重新載入資源包
+debug.show_hitboxes.off=碰撞箱：隱藏
+debug.show_hitboxes.on=碰撞箱：顯示

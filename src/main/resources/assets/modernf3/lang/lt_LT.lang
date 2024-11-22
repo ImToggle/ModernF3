@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Išsami pagalbinė informacija: paslėpta
+debug.advanced_tooltips.on=Išsami pagalbinė informacija: rodoma
+debug.chunk_boundaries.off=Pasaulio dalių ribos: paslėptos
+debug.chunk_boundaries.on=Pasaulio dalių ribos: rodomos
+debug.pause_focus.on=Sustabdyti žaidimą, kai nesufokusuotas langas: įjungta
+debug.prefix=[Tikrinimas]:
+debug.reload_chunks.message=Perkraunamos pasaulio dalys
+debug.reload_resourcepacks.message=Resursų paketai perkrauti
+debug.show_hitboxes.off=Susidūrimo ribos: paslėptos
+debug.show_hitboxes.on=Susidūrimo ribos: rodomos

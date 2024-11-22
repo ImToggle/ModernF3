@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Bleynyow-toul avonsys: Anweladow
+debug.advanced_tooltips.on=Bleynyow-toul avonsys: Gweladow
+debug.chunk_boundaries.off=Emlow an darnow: Anweladow
+debug.chunk_boundaries.on=Emlow an darnow: Gweladow
+debug.pause_focus.on=Powes pan yw fog kellys: galosegys
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Daskarga oll an darnow
+debug.reload_resourcepacks.message=Kuntellow asnodhow dasskargys
+debug.show_hitboxes.off=Kistyow skatt: Anweladow
+debug.show_hitboxes.on=Kistyow skatt: Gweladow

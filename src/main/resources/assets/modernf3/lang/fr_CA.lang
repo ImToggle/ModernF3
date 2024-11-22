@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Infobulles avancées : cachées
+debug.advanced_tooltips.on=Infobulles avancées : affichées
+debug.chunk_boundaries.off=Bordures de chunk : cachées
+debug.chunk_boundaries.on=Bordures de chunk : affichées
+debug.pause_focus.on=Pause à la perte de focus : activée
+debug.prefix=[Débogage] :
+debug.reload_chunks.message=Rechargement de tous les chunks...
+debug.reload_resourcepacks.message=Packs de ressources rechargés
+debug.show_hitboxes.off=Masques de collision : cachés
+debug.show_hitboxes.on=Masques de collision : affichés

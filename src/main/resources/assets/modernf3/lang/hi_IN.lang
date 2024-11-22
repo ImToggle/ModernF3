@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=उन्नत विवरण: अदृश्य है
+debug.advanced_tooltips.on=उन्नत विवरण: दृश्य है
+debug.chunk_boundaries.off=खंड के सीमाएँ: छिपा है
+debug.chunk_boundaries.on=खंड के सीमाएँ: दिखाई दे रहा है
+debug.pause_focus.on=गेम का फोकस खोने पर पॉज़ कीजिये: हा
+debug.prefix=[दोषमार्जन]:
+debug.reload_chunks.message=सभी खंड़ो पुनः भार हो रहा है
+debug.reload_resourcepacks.message=रिसोर्स पैक रीलोड हुआ
+debug.show_hitboxes.off=वारजगह: छिपा है
+debug.show_hitboxes.on=वारजगह: दिखाई दे रहा है

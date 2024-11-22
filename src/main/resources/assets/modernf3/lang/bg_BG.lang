@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Подробни етикети: скрити
+debug.advanced_tooltips.on=Подробни етикети: показани
+debug.chunk_boundaries.off=Граници на разрезите: скрити
+debug.chunk_boundaries.on=Граници на разрезите: показани
+debug.pause_focus.on=Пауза при загубен фокус: включена
+debug.prefix=[Отстраняване на грешки]:
+debug.reload_chunks.message=Презареждат се всички разрези
+debug.reload_resourcepacks.message=Ресурсните пакети бяха презаредени
+debug.show_hitboxes.off=Размери на обекти: скрити
+debug.show_hitboxes.on=Размери на обекти: показани

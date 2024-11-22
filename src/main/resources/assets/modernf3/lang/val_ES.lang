@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descripció avançada d'objectes: amaga
+debug.advanced_tooltips.on=Descripció avançada d'objectes: mostra
+debug.chunk_boundaries.off=Vores dels chunks: amaga
+debug.chunk_boundaries.on=Vores dels chunks: mostra
+debug.pause_focus.on=Pausa el joc en canviar de finestra: activat
+debug.prefix=[Depurador]:
+debug.reload_chunks.message=Recarregant tots els chunks
+debug.reload_resourcepacks.message=S'han recarregat els paquets de recursos
+debug.show_hitboxes.off=Hitboxes: amaga
+debug.show_hitboxes.on=Hitboxes: mostra

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=تلميحات متقدمة: مخفية
+debug.advanced_tooltips.on=تلميحات متقدمة: ظاهرة
+debug.chunk_boundaries.off=حدود القطع: مخفية
+debug.chunk_boundaries.on=حدود القطع: ظاهرة
+debug.pause_focus.on=توقف عن فقدان التركيز: تمكين
+debug.prefix=[Debug]:
+debug.reload_chunks.message=يتم اعادة تحميل جميع القطع
+debug.reload_resourcepacks.message=تم إعادة تحميل حزم الموارد
+debug.show_hitboxes.off=هيتبوكسيس: مخفي
+debug.show_hitboxes.on=هيتبوكسيس: ظاهر

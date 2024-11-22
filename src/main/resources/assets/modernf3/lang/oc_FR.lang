@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Botiòlas-conselh avançadas: amagadas
+debug.advanced_tooltips.on=Botiòlas-conselh avançadas: visiblas
+debug.chunk_boundaries.off=Limites de tròces: amagats
+debug.chunk_boundaries.on=Limites de tròces: visibles
+debug.pause_focus.on=Pausa au moment de pèrda de focus: activada
+debug.prefix=[Desbogatge]:
+debug.reload_chunks.message=Recargament de totes los tròces
+debug.reload_resourcepacks.message=Paquets de ressorsa tornat cargar
+debug.show_hitboxes.off=Bóstias de collision: amagadas
+debug.show_hitboxes.on=Bóstias de collision: visiblas

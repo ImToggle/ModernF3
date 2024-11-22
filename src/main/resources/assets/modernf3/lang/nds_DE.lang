@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Upwiedert Gauinformatschoonen: vöbuorgen
+debug.advanced_tooltips.on=Upwiedert Gauinformatschoonen: sichtbaor
+debug.chunk_boundaries.off=Chunkgrensen: vöbuorgen
+debug.chunk_boundaries.on=Chunkgrensen: sichtbaor
+debug.pause_focus.on=Pauseeren bi Fokusvöluorn: aktiveert
+debug.prefix=[Debug]:
+debug.reload_chunks.message=All Chunks warrt nee laden
+debug.reload_resourcepacks.message=Matriaolpakätte wier ladt
+debug.show_hitboxes.off=Hitboxen: vöbuorgen
+debug.show_hitboxes.on=Hitboxen: sichtbaor

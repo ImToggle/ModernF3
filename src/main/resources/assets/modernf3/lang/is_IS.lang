@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Ítarleg tækjahjálp: falin
+debug.advanced_tooltips.on=Ítarleg tækjahjálp: sýnd
+debug.chunk_boundaries.off=Klúnkamörk: falin
+debug.chunk_boundaries.on=Klúnkamörk: sýnd
+debug.pause_focus.on=Gera hlé ef gluggi missir fókus: virkt
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Endurhleðsla á öllum klúnkum
+debug.reload_resourcepacks.message=Endurhlaðnir efnispakkar
+debug.show_hitboxes.off=Skotrammar: faldir
+debug.show_hitboxes.on=Skotrammar: sýndir

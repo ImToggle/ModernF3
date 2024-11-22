@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=תיאורי כלים מתקדמים: מוסתר
+debug.advanced_tooltips.on=תיאורי כלים מתקדמים: מוצג
+debug.chunk_boundaries.off=גבולות חלק עולם: מוסתרים
+debug.chunk_boundaries.on=גבולות חלק עולם: מוצגים
+debug.pause_focus.on=עצירה בחוסר פוקוס: פעיל
+debug.prefix=[Debug]:
+debug.reload_chunks.message=טוען מחדש את כל חלקי העולם
+debug.reload_resourcepacks.message=ערכות משאבים נטענו מחדש
+debug.show_hitboxes.off=גבולות פגיעה: מוסתרים
+debug.show_hitboxes.on=גבולות פגיעה: מוצגים

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Avanceret værktøjstips: skjult
+debug.advanced_tooltips.on=Avanceret værktøjstips: vist
+debug.chunk_boundaries.off=Klods grænser: skjult
+debug.chunk_boundaries.on=Klods grænser: vist
+debug.pause_focus.on=Pause når ufokuseret: aktiveret
+debug.prefix=[Fejlfinding]:
+debug.reload_chunks.message=Genindlæser alle klodser
+debug.reload_resourcepacks.message=Genindlæs ressource pakker
+debug.show_hitboxes.off=Hitbokse: skjulte
+debug.show_hitboxes.on=Hitbokse: vist

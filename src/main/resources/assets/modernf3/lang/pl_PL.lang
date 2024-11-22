@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Zaawansowane etykiety: ukryte
+debug.advanced_tooltips.on=Zaawansowane etykiety: widoczne
+debug.chunk_boundaries.off=Granice chunków: ukryte
+debug.chunk_boundaries.on=Granice chunków: widoczne
+debug.pause_focus.on=Pauza po opuszczeniu okna gry: włączona
+debug.prefix=[Debugowanie]:
+debug.reload_chunks.message=Przeładowywanie wszystkich chunków
+debug.reload_resourcepacks.message=Przeładowano paczki zasobów
+debug.show_hitboxes.off=Hitboxy: ukryte
+debug.show_hitboxes.on=Hitboxy: widoczne

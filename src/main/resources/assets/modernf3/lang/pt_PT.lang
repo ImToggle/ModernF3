@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descrições avançadas: Ocultas
+debug.advanced_tooltips.on=Descrições avançadas: Visíveis
+debug.chunk_boundaries.off=Limites de chunks: Ocultos
+debug.chunk_boundaries.on=Limites de chunks: Visíveis
+debug.pause_focus.on=Pausar o jogo ao mudar de janela: Sim
+debug.prefix=[Depuração]:
+debug.reload_chunks.message=A recarregar todos os chunks
+debug.reload_resourcepacks.message=Pacotes de recursos recarregados
+debug.show_hitboxes.off=Caixas de colisão: Ocultas
+debug.show_hitboxes.on=Caixas de colisão: Visíveis

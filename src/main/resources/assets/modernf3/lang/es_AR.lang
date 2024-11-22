@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descripción de ítems detallada: no
+debug.advanced_tooltips.on=Descripción de ítems detallada: sí
+debug.chunk_boundaries.off=Bordes de chunks: no
+debug.chunk_boundaries.on=Bordes de chunks: sí
+debug.pause_focus.on=Pausar juego al cambiar de ventana: sí
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Recargando todos los chunks
+debug.reload_resourcepacks.message=Se recargaron los packs de recursos
+debug.show_hitboxes.off=Mostrar hitbox: no
+debug.show_hitboxes.on=Mostrar hitbox: sí

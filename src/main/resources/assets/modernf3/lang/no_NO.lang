@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Avanserte verktøytips: skjult
+debug.advanced_tooltips.on=Avanserte verktøytips: synlig
+debug.chunk_boundaries.off=Stykkekanter: skjulte
+debug.chunk_boundaries.on=Stykkekanter: viste
+debug.pause_focus.on=Pause ved mistet fokus: aktivert
+debug.prefix=[Feilsøk]:
+debug.reload_chunks.message=Laster inn alle stykker på nytt
+debug.reload_resourcepacks.message=Ressurspakker innlastet på nytt
+debug.show_hitboxes.off=Treffbokser: skjult
+debug.show_hitboxes.on=Treffbokser: vist

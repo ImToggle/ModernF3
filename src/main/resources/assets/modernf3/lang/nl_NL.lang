@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Geavanceerde tekstballonnen: verborgen
+debug.advanced_tooltips.on=Geavanceerde tekstballonnen: zichtbaar
+debug.chunk_boundaries.off=Chunkgrenzen: verborgen
+debug.chunk_boundaries.on=Chunkgrenzen: zichtbaar
+debug.pause_focus.on=Pauzeren bij verliezen van focus: ingeschakeld
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Alle chunks aan het herladen
+debug.reload_resourcepacks.message=Bronpakketten herladen
+debug.show_hitboxes.off=Contactvelden: verborgen
+debug.show_hitboxes.on=Contactvelden: zichtbaar

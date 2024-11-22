@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Qabaqcıl alət ipucları: gizli
+debug.advanced_tooltips.on=Qabaqcıl alət ipucları: görünür
+debug.chunk_boundaries.off=Yığın sərhədləri: gizli
+debug.chunk_boundaries.on=Yığın sərhədləri: görünən
+debug.pause_focus.on=İtirilmiş fokusda fasilə: aktiv
+debug.prefix=[Xəta Tapma]:
+debug.reload_chunks.message=Bütün yığınlar yenidən yüklənir
+debug.reload_resourcepacks.message=Qaynaq paketləri yenidən yükləndi
+debug.show_hitboxes.off=Vurma qutuları: gizli
+debug.show_hitboxes.on=Vurma qutuları: görünür

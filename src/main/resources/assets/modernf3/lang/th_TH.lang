@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=คำแนะนำขั้นสูง: ซ่อน
+debug.advanced_tooltips.on=คำแนะนำขั้นสูง: แสดง
+debug.chunk_boundaries.off=ขอบเขตชังก์: ซ่อน
+debug.chunk_boundaries.on=ขอบเขตชังก์: แสดง
+debug.pause_focus.on=หยุดเมื่อหลุดการโฟกัส: เปิดใช้งานแล้ว
+debug.prefix=[Debug]:
+debug.reload_chunks.message=กำลังรีโหลดชังก์ทั้งหมด
+debug.reload_resourcepacks.message=รีโหลดรีซอร์ซแพ็กแล้ว
+debug.show_hitboxes.off=บริเวณโจมตี: ซ่อน
+debug.show_hitboxes.on=บริเวณโจมตี: แสดง

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=ToolTips avvanzati: moħbija
+debug.advanced_tooltips.on=Suġġerimenti avvanzati: murija
+debug.chunk_boundaries.off=Laqx tal-fruntieri: moħbi
+debug.chunk_boundaries.on=Laqx tal-fruntieri: muri
+debug.pause_focus.on=Issospendi fuq il-fokus mitluf: attivat
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Tagħbija mill-ġdid tal-furmaturi kollha
+debug.reload_resourcepacks.message=Irlowdjat pakketti tar-ri żorsi
+debug.show_hitboxes.off=Kaxxi tal-hit: moħbija
+debug.show_hitboxes.on=Kaxxi tal-hit: murija

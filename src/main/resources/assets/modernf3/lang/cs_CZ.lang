@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Pokročilé popisky: skryty
+debug.advanced_tooltips.on=Pokročilé popisky: zobrazeny
+debug.chunk_boundaries.off=Hranice chunků: skryty
+debug.chunk_boundaries.on=Hranice chunků: zobrazeny
+debug.pause_focus.on=Pauza při ztrátě zaměření: povoleno
+debug.prefix=[Ladění]:
+debug.reload_chunks.message=Opětovné načítání všech chunků
+debug.reload_resourcepacks.message=Balíčky modifikací byly znovu načteny
+debug.show_hitboxes.off=Hitboxy: skryty
+debug.show_hitboxes.on=Hitboxy: zobrazeny

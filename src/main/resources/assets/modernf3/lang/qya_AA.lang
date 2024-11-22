@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Tainë istaler: nurtainë
+debug.advanced_tooltips.on=Tainë istaler: apantainë
+debug.chunk_boundaries.off=Pelmar latsion: alacénimë
+debug.chunk_boundaries.on=Pelmar latsion: cénimë
+debug.pause_focus.on=Pause on lost focus: enabled
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Reloading all chunks
+debug.reload_resourcepacks.message=Reloaded resource packs
+debug.show_hitboxes.off=Hitboxi: alacénimë
+debug.show_hitboxes.on=Hitboxi: cénimë

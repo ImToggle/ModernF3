@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Täpsemad näpunäited: peidetud
+debug.advanced_tooltips.on=Täpsemad näpunäited: kuvatud
+debug.chunk_boundaries.off=Kamakapiirded: peidetud
+debug.chunk_boundaries.on=Kamakapiirded: kuvatud
+debug.pause_focus.on=Peata fookuse kaotamisel: jah
+debug.prefix=[Silur]:
+debug.reload_chunks.message=Laadin kõik kamakad uuesti
+debug.reload_resourcepacks.message=Ressursipakid taaslaaditud
+debug.show_hitboxes.off=Löögialad: peidetud
+debug.show_hitboxes.on=Löögialad: kuvatud

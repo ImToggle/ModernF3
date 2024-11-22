@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=ابزار جزئیات پیشرفته: پنهان کردن
+debug.advanced_tooltips.on=ابزار جزئیات پیشرفته: نمایش دادن
+debug.chunk_boundaries.off=مرز تکه ها: پنهان کردن
+debug.chunk_boundaries.on=مرز تکه ها: نمایش دادن
+debug.pause_focus.on=توقف هنگام از دست دادن تمرکز پنجره: فعال شد
+debug.prefix=[Debug]:
+debug.reload_chunks.message=در حال بارگذاری دوباره تکه های زمین...
+debug.reload_resourcepacks.message=بسته های منابع دوباره بارگذاری شده
+debug.show_hitboxes.off=فضای ضربه خوردن: مخفی
+debug.show_hitboxes.on=فضای ضربه خوردن: نمایش

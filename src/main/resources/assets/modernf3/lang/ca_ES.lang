@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Descripcions avançades: amagades
+debug.advanced_tooltips.on=Descripcions avançades: visibles
+debug.chunk_boundaries.off=Límits dels chunks: amagats
+debug.chunk_boundaries.on=Límits dels chunks: visibles
+debug.pause_focus.on=Aturar al canviar de finestra: activat
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Recarregant tots els chunks
+debug.reload_resourcepacks.message=Paquets de recursos recarregats
+debug.show_hitboxes.off=Caixes de col·lisió: ocultes
+debug.show_hitboxes.on=Caixes de col·lisió: visibles

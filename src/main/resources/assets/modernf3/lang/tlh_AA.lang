@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off='Itlhbogh ghItlh Sachlu'bogh: So'lu'
+debug.advanced_tooltips.on='Itlhbogh ghItlh Sachlu'bogh: 'anglu'
+debug.chunk_boundaries.off=puH 'ay' HeH: So'lu'
+debug.chunk_boundaries.on=puH 'ay' HeH: cha'lu'
+debug.pause_focus.on=latlh nIqHom lo'lu'DI', Quj yevmoH: chu'lu'
+debug.prefix=[Debug]:
+debug.reload_chunks.message=Hoch puH 'ay' lI'qa'
+debug.reload_resourcepacks.message=mIllogh vey lI'qa'
+debug.show_hitboxes.off=DoS tu'qom: So'lu'
+debug.show_hitboxes.on=DoS tu'qom: cha'lu'

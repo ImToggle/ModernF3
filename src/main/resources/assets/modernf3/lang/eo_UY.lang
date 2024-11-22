@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Precizaj priskriboj: kaŝataj
+debug.advanced_tooltips.on=Precizaj priskriboj: montrataj
+debug.chunk_boundaries.off=Pecaraj limoj: kaŝataj
+debug.chunk_boundaries.on=Pecaraj limoj: montrataj
+debug.pause_focus.on=Paŭzi post foriri la ludfenestron: aktivigita
+debug.prefix=[Sencimigo]:
+debug.reload_chunks.message=Reŝargado de ĉiuj pecaroj
+debug.reload_resourcepacks.message=Resurspakaĵoj estas reŝargitaj
+debug.show_hitboxes.off=Batskatoloj: kaŝitaj
+debug.show_hitboxes.on=Batskatoloj: montritaj

@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=고급 도구 설명: 숨김
+debug.advanced_tooltips.on=고급 도구 설명: 표시
+debug.chunk_boundaries.off=청크 경계선: 숨김
+debug.chunk_boundaries.on=청크 경계선: 표시
+debug.pause_focus.on=창이 포커스를 잃었을 때 일시 정지: 켜짐
+debug.prefix=[디버그]:
+debug.reload_chunks.message=모든 청크 새로 고침 중
+debug.reload_resourcepacks.message=리소스 팩을 새로 고쳤습니다
+debug.show_hitboxes.off=히트박스: 숨김
+debug.show_hitboxes.on=히트박스: 표시

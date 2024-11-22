@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Petua lanjutan: tersembunyi
+debug.advanced_tooltips.on=Petua lanjutan: ditunjukkan
+debug.chunk_boundaries.off=Sempadan cebisan: tersembunyi
+debug.chunk_boundaries.on=Sempadan cebisan: ditunjukkan
+debug.pause_focus.on=Jeda ketika hilang fokus: didayakan
+debug.prefix=[Nyahpepijat]:
+debug.reload_chunks.message=Sedang memuatkan semula semua cebisan
+debug.reload_resourcepacks.message=Pek sumber telah dimuatkan semula
+debug.show_hitboxes.off=Hitbox: tersembunyi
+debug.show_hitboxes.on=Hitbox: ditunjukkan

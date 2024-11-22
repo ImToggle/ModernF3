@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Esboniadau uwch: cudd
+debug.advanced_tooltips.on=Esboniadau uwch: ymlaen
+debug.chunk_boundaries.off=Terfynau talp: wedi'i cuddio
+debug.chunk_boundaries.on=Terfynau talp: i'w gweld
+debug.pause_focus.on=Oedi ar ffocws coll: ymlaen
+debug.prefix=[Dadfygio]:
+debug.reload_chunks.message=Ail-lwytho pob talp
+debug.reload_resourcepacks.message=Wedi ail-lwytho pecynnau adnodd
+debug.show_hitboxes.off=Blychau taro: cudd
+debug.show_hitboxes.on=Blychau taro: ymlaen

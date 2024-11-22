@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Розширені підказки: приховані
+debug.advanced_tooltips.on=Розширені підказки: показані
+debug.chunk_boundaries.off=Межі чанків: приховані
+debug.chunk_boundaries.on=Межі чанків: показуються
+debug.pause_focus.on=Призупинення при переході до іншого вікна: увімкнене
+debug.prefix=[Налагодження]:
+debug.reload_chunks.message=Перезавантаження всіх чанків
+debug.reload_resourcepacks.message=Перезавантажено пакети ресурсів
+debug.show_hitboxes.off=Гитбокси: приховані
+debug.show_hitboxes.on=Гитбокси: показані

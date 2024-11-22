@@ -1,0 +1,10 @@
+debug.advanced_tooltips.off=Erweidert Schnellinfos: verstoppt
+debug.advanced_tooltips.on=Erweidert Schnellinfos: siichtbar
+debug.chunk_boundaries.off=Chunkgrenzen: verstoppt
+debug.chunk_boundaries.on=Chunkgrenzen: siichtbar
+debug.pause_focus.on=Pause bei Fokusverloscht: aktivéiert
+debug.prefix=[Debug]:
+debug.reload_chunks.message=D'Chunks ginn all néi gelueden
+debug.reload_resourcepacks.message=Ressourcepäck néi gelueden
+debug.show_hitboxes.off=Hitboxen: verstoppt
+debug.show_hitboxes.on=Hitboxen: siichtbar
