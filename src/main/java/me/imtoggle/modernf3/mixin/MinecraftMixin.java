@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.injection.*;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @Mixin(Minecraft.class)
-public class MinecraftMixin {
+public abstract class MinecraftMixin {
 
     @Shadow public GameSettings gameSettings;
 
@@ -22,7 +22,7 @@ public class MinecraftMixin {
 
     @Redirect(method = "runTick", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/settings/KeyBinding;setKeyBindState(IZ)V", ordinal = 1))
     private void cancel(int keyCode, boolean pressed) {
-        if (UtilKt.shouldPause(keyCode, pressed)) return;
+        if (UtilKt.keyPress(keyCode, pressed)) return;
         KeyBinding.setKeyBindState(keyCode, pressed);
     }
 
@@ -39,7 +39,7 @@ public class MinecraftMixin {
 
     @Inject(method = "runTick", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/settings/KeyBinding;isPressed()Z", ordinal = 0))
     private void handleMessage(CallbackInfo ci) {
-        UtilKt.sendMessage();
+        UtilKt.handleAction();
     }
 
     @Redirect(method = "runTick", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/settings/GameSettings;setOptionValue(Lnet/minecraft/client/settings/GameSettings$Options;I)V"))
@@ -47,6 +47,16 @@ public class MinecraftMixin {
         gameSettings.renderDistanceChunks += GuiScreen.isShiftKeyDown() ? -1 : 1;
         gameSettings.renderDistanceChunks = Math.max(Math.min(gameSettings.renderDistanceChunks, (int) GameSettings.Options.RENDER_DISTANCE.getValueMax()), 2);
         gameSettings.saveOptions();
+    }
+
+    @Redirect(method = "runTick", at = @At(value = "FIELD", target = "Lnet/minecraft/client/Minecraft;debugCrashKeyPressTime:J", ordinal = 0))
+    private long cancelCrash(Minecraft instance) {
+        return -1L;
+    }
+
+    @Redirect(method = "runTick", at = @At(value = "INVOKE", target = "Lorg/lwjgl/input/Keyboard;isKeyDown(I)Z", ordinal = 2))
+    private boolean cancelCrash(int key) {
+        return false;
     }
 
 }
