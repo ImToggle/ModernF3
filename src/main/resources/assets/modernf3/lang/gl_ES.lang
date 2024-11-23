@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Descripcións avanzadas
 debug.advanced_tooltips.off=Descripcións avanzadas: non
 debug.advanced_tooltips.on=Descripcións avanzadas: si
+debug.chunk_boundaries.help=F3 + G = Amosar bordos dos chunks
 debug.chunk_boundaries.off=Bordos do chunk: agochar
 debug.chunk_boundaries.on=Bordos de chunks: ver
+debug.clear_chat.help=F3 + D = Limpar chat
+debug.copy_location.help=F3 + C = Copiar a ubicación como comando /tp. Mantén premido F3 + C para forzar o peche do xogo
+debug.copy_location.message=Ubicación copiada no portapapeis
+debug.crash.message=Estás premendo F3 + C. Se non paras, o xogo deixará de funcionar.
 debug.crash.warning=Pechando xogo en %s...
+debug.creative_spectator.help=F3 + N = Cambiar entre o modo de xogo anterior <-> espectador
+debug.help.help=F3 + Q = Amosar esta listaxe
+debug.help.message=Atallos de teclado:
+debug.pause.help=F3 + Esc = Pausa sen menú (se é posible)
+debug.pause_focus.help=F3 + P = Pausar xogo ao cambiar de xanela
 debug.pause_focus.off=Pausar ao minimizar xanela: non
 debug.pause_focus.on=Pausar ao minimizar xanela: sí
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Recargar chunks
 debug.reload_chunks.message=Recargando todos os chunks
+debug.reload_resourcepacks.help=F3 + T = Recargar paquetes de recursos
 debug.reload_resourcepacks.message=Paquetes de recursos recargados
+debug.show_hitboxes.help=F3 + B = Amosar caixas de colisións
 debug.show_hitboxes.off=Caixas de colisións: non
 debug.show_hitboxes.on=Caixas de colisións: si
+menu.paused=Xogo pausado

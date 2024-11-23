@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Bett'r handy object tips
 debug.advanced_tooltips.off=Bett'r handy object tips: hidden
 debug.advanced_tooltips.on=Bett'r handy object tips: shown
+debug.chunk_boundaries.help=F3 + G = Show chunk limits
 debug.chunk_boundaries.off=Chunk limits: hidden
 debug.chunk_boundaries.on=Chunk limits: shown
+debug.clear_chat.help=F3 + D = Wipe yer chat
+debug.copy_location.help=F3 + C = Copy down this 'ere place as a /tp command, keep F3 + C press'd to beach yer ship
+debug.copy_location.message=Logged ye coordinates to captains log
+debug.crash.message=F3 + C is held down. yer ship ll' sink if ye continue!
 debug.crash.warning=Ship Crashing in %s...
+debug.creative_spectator.help=F3 + N = Cycle previous rank <-> yellowbelly
+debug.help.help=F3 + Q = Show this here list
+debug.help.message=Yer control bounds:
+debug.pause.help=F3 + Esc = Anchor yer ship without yer choices menu (if anchoring is possible)
+debug.pause_focus.help=F3 + P = Anchor yer ship when ye be daydreamin'
 debug.pause_focus.off=Pause when yer daydreamin': disabled
 debug.pause_focus.on=Pause when yer daydreamin': enabled
 debug.prefix=[Ship Fixer]:
+debug.reload_chunks.help=F3 + A = Reload all lands
 debug.reload_chunks.message=Reloading all tha' chunks
+debug.reload_resourcepacks.help=F3 + T = Reload yer picture packs
 debug.reload_resourcepacks.message=Reloaded ye picture packs
+debug.show_hitboxes.help=F3 + B = Show landlubber frameworks
 debug.show_hitboxes.off=Landlubber frameworks: hidden
 debug.show_hitboxes.on=Landlubber frameworks: shown
+menu.paused=Ship be anchored

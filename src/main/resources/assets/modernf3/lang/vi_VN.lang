@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Chú giải công cụ nâng cao
 debug.advanced_tooltips.off=Chú giải công cụ nâng cao: đã ẩn đi
 debug.advanced_tooltips.on=Chú giải công cụ nâng cao: đã hiển thị
+debug.chunk_boundaries.help=F3 + G = Hiển thị ranh giới các đoạn khúc
 debug.chunk_boundaries.off=Ranh giới các đoạn khúc: đã ẩn đi
 debug.chunk_boundaries.on=Ranh giới các đoạn khúc: đã hiển thị
+debug.clear_chat.help=F3 + D = Xóa sạch trò chuyện
+debug.copy_location.help=F3 + C = Sao chép vị trí như lệnh /tp, giữ F3 + C để làm trò chơi gặp sự cố
+debug.copy_location.message=Đã sao chép vị trí vào khay nhớ tạm
+debug.crash.message=F3 + C đã được giữ. Điều này sẽ làm trò chơi gặp sự cố trừ khi thả phím ra.
 debug.crash.warning=Gặp sự cố trong %s...
+debug.creative_spectator.help=F3 + N = Đổi xoay vòng chế độ chơi trước <-> khán giả
+debug.help.help=F3 + Q = Hiển thị danh sách này
+debug.help.message=Gán phím:
+debug.pause.help=F3 + Esc = Tạm dừng nhưng không tạm dừng tùy chọn (nếu như có thể tạm dừng)
+debug.pause_focus.help=F3 + P = Tạm dừng khi bị mất tập trung
 debug.pause_focus.off=Tạm dừng khi bị mất tập trung: đã tắt
 debug.pause_focus.on=Tạm dừng khi bị mất tập trung: đã bật
 debug.prefix=[Gỡ lỗi]:
+debug.reload_chunks.help=F3 + A = Nạp lại đoạn khúc
 debug.reload_chunks.message=Đang nạp lại tất cả đoạn khúc
+debug.reload_resourcepacks.help=F3 + T = Nạp lại gói tài nguyên
 debug.reload_resourcepacks.message=Đã nạp lại gói tài nguyên
+debug.show_hitboxes.help=F3 + B = Hiển thị hộp va chạm
 debug.show_hitboxes.off=Hộp va chạm: đã ẩn đi
 debug.show_hitboxes.on=Hộp va chạm: đã hiển thị
+menu.paused=Đã tạm dừng trò chơi

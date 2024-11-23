@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = תיאורי כלים מתקדמים
 debug.advanced_tooltips.off=תיאורי כלים מתקדמים: מוסתר
 debug.advanced_tooltips.on=תיאורי כלים מתקדמים: מוצג
+debug.chunk_boundaries.help=F3 + G = הצג גבולות של חלק עולם
 debug.chunk_boundaries.off=גבולות חלק עולם: מוסתרים
 debug.chunk_boundaries.on=גבולות חלק עולם: מוצגים
+debug.clear_chat.help=F3 + D = נקה צ'אט
+debug.copy_location.help=F3 + C = העתק מיקום בתור פקודת /tp, החזק F3 + C כדי להקריס את המשחק
+debug.copy_location.message=מיקום הועתק
+debug.crash.message=F3 + C לחוצים. דבר זה יגרום למשחק לקרוס אלא אם הם ישוחררו.
 debug.crash.warning=קורס בעוד %s...
+debug.creative_spectator.help=F3 + N = מעבר בין מצבי משחק <-> צופה
+debug.help.help=F3 + Q = הצג את הרשימה הזאת
+debug.help.message=מקשי קיצור:
+debug.pause.help=F3 + Esc = השהייה ללא תפריט ההשייה (אם השהייה אפשרית)
+debug.pause_focus.help=F3 + P = השהה באבדן פוקוס
 debug.pause_focus.off=עצירה בחוסר פוקוס: לא פעיל
 debug.pause_focus.on=עצירה בחוסר פוקוס: פעיל
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = טען מחדש את חלקי העולם
 debug.reload_chunks.message=טוען מחדש את כל חלקי העולם
+debug.reload_resourcepacks.help=F3 + T = טען מחדש חבילות משאבים
 debug.reload_resourcepacks.message=ערכות משאבים נטענו מחדש
+debug.show_hitboxes.help=F3 + B = הצג גבולות פגיעה
 debug.show_hitboxes.off=גבולות פגיעה: מוסתרים
 debug.show_hitboxes.on=גבולות פגיעה: מוצגים
+menu.paused=המשחק הושהה

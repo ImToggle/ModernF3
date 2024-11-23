@@ -1,4 +1,4 @@
-package me.imtoggle.modernf3
+package me.imtoggle.modernf3.renderer
 
 import cc.polyfrost.oneconfig.utils.dsl.mc
 import net.minecraft.client.renderer.GlStateManager

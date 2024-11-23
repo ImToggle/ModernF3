@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Расширенные подсказки
 debug.advanced_tooltips.off=Расширенные подсказки: выкл.
 debug.advanced_tooltips.on=Расширенные подсказки: вкл.
+debug.chunk_boundaries.help=F3 + G = Отображать границы чанков
 debug.chunk_boundaries.off=Границы чанков: выкл.
 debug.chunk_boundaries.on=Границы чанков: вкл.
+debug.clear_chat.help=F3 + D = Очистить чат
+debug.copy_location.help=F3 + C = Скопировать координаты; удерживайте, чтобы вызвать сбой игры
+debug.copy_location.message=Координаты скопированы в буфер обмена
+debug.crash.message=Удерживается F3 + C. Произойдёт сбой игры, если не отпустить.
 debug.crash.warning=Сбой через %s...
+debug.creative_spectator.help=F3 + N = Смена режима игры: предыдущий <-> наблюдатель
+debug.help.help=F3 + Q = Показать этот список
+debug.help.message=Назначение клавиш:
+debug.pause.help=F3 + Esc = Приостановить без выхода в меню (если приостановка возможна)
+debug.pause_focus.help=F3 + P = Пауза при сворачивании игры
 debug.pause_focus.off=Пауза при сворачивании: выкл.
 debug.pause_focus.on=Пауза при сворачивании: вкл.
 debug.prefix=[Отладка]:
+debug.reload_chunks.help=F3 + A = Перезагрузить чанки
 debug.reload_chunks.message=Перезагрузка всех чанков
+debug.reload_resourcepacks.help=F3 + T = Перезагрузить наборы ресурсов
 debug.reload_resourcepacks.message=Наборы ресурсов перезагружены
+debug.show_hitboxes.help=F3 + B = Отображать хитбоксы
 debug.show_hitboxes.off=Хитбоксы: выкл.
 debug.show_hitboxes.on=Хитбоксы: вкл.
+menu.paused=Игра приостановлена

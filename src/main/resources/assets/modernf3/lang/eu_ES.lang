@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Deskripzio aurreratuak
 debug.advanced_tooltips.off=Deskripzio aurreratuak: ezkutatuta
 debug.advanced_tooltips.on=Deskripzio aurreratuak: erakutsita
+debug.chunk_boundaries.help=F3 + G = Erakutsi chunken mugak
 debug.chunk_boundaries.off=Chunken mugak: ezkutatuta
 debug.chunk_boundaries.on=Chunken mugak: erakutsita
+debug.clear_chat.help=F3 + D = Txata garbitu
+debug.copy_location.help=F3 + C = Kopiatu kokalekua /tp komandorako, mantendu F3 + C jokoa ixteko
+debug.copy_location.message=Kokapena arbelean kopiatu da
+debug.crash.message=F3 + C sakatuta dago. Honek jokuak funtionatzeari uztea eragingo du sakatzeari utzi ezean.
 debug.crash.warning=Jolasa itxiko da %s...
+debug.creative_spectator.help=F3 + N = Aldatu aurreko joko moduaren artean <-> ikuslea
+debug.help.help=F3 + Q = Erakutsi zerrenda hau
+debug.help.message=Tekla lasterbideak:
+debug.pause.help=F3 + Esc = Etenaldia etenaldi menurik gabe (etenaldi bat egin ahal baduzu)
+debug.pause_focus.help=F3 + P = Jokoa gelditu leihoa aldatzerakoan
 debug.pause_focus.off=Gelditu leihoa aldatzerakoan: desgaituta
 debug.pause_focus.on=Gelditu leihoa aldatzerakoan: gaituta
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunk-ak birkargatu
 debug.reload_chunks.message=Chunk denak birkargatzen
+debug.reload_resourcepacks.help=F3 + T = Baliabide-paketeak birkargatu
 debug.reload_resourcepacks.message=Baliabide-paketeak birkargatuta
+debug.show_hitboxes.help=F3 + B = Erakutsi talka-kutxak
 debug.show_hitboxes.off=Talka kutxak: ezkutatuta
 debug.show_hitboxes.on=Talka-kutxak: erakutsita
+menu.paused=Jokoa geldituta

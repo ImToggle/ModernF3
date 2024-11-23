@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Napredni opisi
 debug.advanced_tooltips.off=Napredni opisi: skriti
 debug.advanced_tooltips.on=Napredni opisi: prikazani
+debug.chunk_boundaries.help=F3 + G = Prikaži meje kosov
 debug.chunk_boundaries.off=Meje kosov: skrite
 debug.chunk_boundaries.on=Meje kosov: prikazane
+debug.clear_chat.help=F3 + D = Počisti pogovor
+debug.copy_location.help=F3 + C = Kopiraj lokacijo kot / tp ukaz, drži tipko F3 + C, da sesuješ igro
+debug.copy_location.message=Lokacija kopirana v odložišče
+debug.crash.message=F3 + C je pritisnjen. Igra se bo sesula, če ne nehaš pritiskati.
 debug.crash.warning=Sesutje v %s...
+debug.creative_spectator.help=F3 + N = Menjaj med prejšnjim načinom igre <-> opazovalecem
+debug.help.help=F3 + Q = Prikaži ta seznam
+debug.help.message=Vezane tipke:
+debug.pause.help=F3 + Esc = Zaustavi igro brez menija (če je zaustavitev igre možna)
+debug.pause_focus.help=F3 + P = Pavza ob izgubljenem fokusu
 debug.pause_focus.off=Pavza ob izgubljenem fokusu: onemogočena
 debug.pause_focus.on=Pavza ob izgubljenem fokusu: omogočena
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Ponovno naloži kose
 debug.reload_chunks.message=Ponovno nalaganje kosov
+debug.reload_resourcepacks.help=F3 + T = Ponovno naloži pakete sredstev
 debug.reload_resourcepacks.message=Paketi sredstev ponovno naloženi
+debug.show_hitboxes.help=F3 + B = Prikaži hitboxe
 debug.show_hitboxes.off=Hitboxi: skriti
 debug.show_hitboxes.on=Hitboxi: prikazani
+menu.paused=Igra zaustavljena

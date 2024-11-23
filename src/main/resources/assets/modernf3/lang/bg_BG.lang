@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Подробни етикети
 debug.advanced_tooltips.off=Подробни етикети: скрити
 debug.advanced_tooltips.on=Подробни етикети: показани
+debug.chunk_boundaries.help=F3 + G = Показване на границите на разрезите
 debug.chunk_boundaries.off=Граници на разрезите: скрити
 debug.chunk_boundaries.on=Граници на разрезите: показани
+debug.clear_chat.help=F3 + D = Изчистване на чата
+debug.copy_location.help=F3 + C = Копиране на сегашното местоположение като /tp команда; задръжте F3 + C, за да се срине играта
+debug.copy_location.message=Местоположението беше копирано
+debug.crash.message=Задържате F3 + C. Играта ще се срине, ако не го пуснете.
 debug.crash.warning=Играта ще се срине след %s...
+debug.creative_spectator.help=F3 + N = Цикъл предишен режим на игра <-> зрител
+debug.help.help=F3 + Q = Показване на този списък
+debug.help.message=Клавишни комбинации:
+debug.pause.help=F3 + Esc = Паузира играта без да показва паузиращото меню (ако паузирането е възможно)
+debug.pause_focus.help=F3 + P = Пауза при загубен фокус
 debug.pause_focus.off=Пауза при загубен фокус: изключена
 debug.pause_focus.on=Пауза при загубен фокус: включена
 debug.prefix=[Отстраняване на грешки]:
+debug.reload_chunks.help=F3 + A = Презареждане на разрезите
 debug.reload_chunks.message=Презареждат се всички разрези
+debug.reload_resourcepacks.help=F3 + T = Презареждане на ресурсни пакети
 debug.reload_resourcepacks.message=Ресурсните пакети бяха презаредени
+debug.show_hitboxes.help=F3 + B = Показване размерите на обекти
 debug.show_hitboxes.off=Размери на обекти: скрити
 debug.show_hitboxes.on=Размери на обекти: показани
+menu.paused=Играта е на пауза

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = išsamesnė pagalbinė informacija
 debug.advanced_tooltips.off=Išsami pagalbinė informacija: paslėpta
 debug.advanced_tooltips.on=Išsami pagalbinė informacija: rodoma
+debug.chunk_boundaries.help=F3 + G = rodyti pasaulio dalių ribas
 debug.chunk_boundaries.off=Pasaulio dalių ribos: paslėptos
 debug.chunk_boundaries.on=Pasaulio dalių ribos: rodomos
+debug.clear_chat.help=F3 + D = valyti pokalbį
+debug.copy_location.help=F3 + C = kopijuoti vietą kaip /tp komandą, palaikius F3 + C žaidimas išsijungs
+debug.copy_location.message=Vietovė nukopijuota į iškarpinę
+debug.crash.message=Laikoma F3 + C. Tai nulauš žaidimą, nebent paleisite klavišus.
 debug.crash.warning=Lūžtama po %s...
+debug.creative_spectator.help=F3 + N = apkeičia žaidimo režimą tarp stebėtojo ir prieš tai buvusio režimo
+debug.help.help=F3 + Q = parodyti šį sąrašą
+debug.help.message=Klavišų priskyrimas:
+debug.pause.help=F3 + Esc = Pristabdyti be pristabdymo meniu (jeigu pristabdymas yra galimas)
+debug.pause_focus.help=F3 + P = sustabdyti žaidimą, kai nesufokusuotas langas
 debug.pause_focus.off=Sustabdyti žaidimą, kai nesufokusuotas langas: išjungta
 debug.pause_focus.on=Sustabdyti žaidimą, kai nesufokusuotas langas: įjungta
 debug.prefix=[Tikrinimas]:
+debug.reload_chunks.help=F3 + A = perkrauti pasaulio dalis
 debug.reload_chunks.message=Perkraunamos pasaulio dalys
+debug.reload_resourcepacks.help=F3 + T = perkrauti resursų paketus
 debug.reload_resourcepacks.message=Resursų paketai perkrauti
+debug.show_hitboxes.help=F3 + B = rodyti susidūrimo ribas
 debug.show_hitboxes.off=Susidūrimo ribos: paslėptos
 debug.show_hitboxes.on=Susidūrimo ribos: rodomos
+menu.paused=Žaidimas sustabdytas

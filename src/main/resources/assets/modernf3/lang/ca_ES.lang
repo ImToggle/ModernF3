@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Descripcions avançades
 debug.advanced_tooltips.off=Descripcions avançades: amagades
 debug.advanced_tooltips.on=Descripcions avançades: visibles
+debug.chunk_boundaries.help=F3 + G = Mostra els límits del chunk
 debug.chunk_boundaries.off=Límits dels chunks: amagats
 debug.chunk_boundaries.on=Límits dels chunks: visibles
+debug.clear_chat.help=F3 + D = Neteja xat
+debug.copy_location.help=F3 + C = Copiar la ubicació com el comandament /tp. Manten-les presionades per forçar el tancament del joc
+debug.copy_location.message=La posició s'ha copiat al portapapers
+debug.crash.message=Estàs presionant F3 + C. Si no les deixes anar, el joc deixarà de funcionar.
 debug.crash.warning=El joc deixarà de funcionar en %s...
+debug.creative_spectator.help=F3 + N = Canvia entre el mode de joc anterior <-> espectador
+debug.help.help=F3 + Q = Mostrar aquesta llista
+debug.help.message=Tecles:
+debug.pause.help=F3 + Esc = Aturar sense menú de pausa (si el pausat és possible)
+debug.pause_focus.help=F3 + P = Atura el joc al canviar de finestra
 debug.pause_focus.off=Aturar al canviar de finestra: desactivat
 debug.pause_focus.on=Aturar al canviar de finestra: activat
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Recarrega els chunks
 debug.reload_chunks.message=Recarregant tots els chunks
+debug.reload_resourcepacks.help=F3 + T = Recarregar paquets de recursos
 debug.reload_resourcepacks.message=Paquets de recursos recarregats
+debug.show_hitboxes.help=F3 + B = Mostrar caixes de col·lisió
 debug.show_hitboxes.off=Caixes de col·lisió: ocultes
 debug.show_hitboxes.on=Caixes de col·lisió: visibles
+menu.paused=Joc aturat

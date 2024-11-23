@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Infobulles avancées
 debug.advanced_tooltips.off=Infobulles avancées : cachées
 debug.advanced_tooltips.on=Infobulles avancées : affichées
+debug.chunk_boundaries.help=F3 + G = Afficher/cacher les bordures des chunks
 debug.chunk_boundaries.off=Bordures de chunk : cachées
 debug.chunk_boundaries.on=Bordures de chunk : affichées
+debug.clear_chat.help=F3 + D = Vider le chat
+debug.copy_location.help=F3 + C = Copier votre position en tant que commande /tp, maintenir F3 + C pour faire planter le jeu
+debug.copy_location.message=Position copiée en mémoire
+debug.crash.message=Les touches F3 + C sont enfoncées. Cela va faire planter le jeu à moins de les relâcher.
 debug.crash.warning=Plantage du jeu dans %s...
+debug.creative_spectator.help=F3 + N = Alterner entre mode de jeu précédent <-> mode Spectateur
+debug.help.help=F3 + Q = Afficher cette liste
+debug.help.message=Raccourcis clavier :
+debug.pause.help=F3 + Échap = Mettre le jeu en pause sans le menu du jeu (si c'est possible)
+debug.pause_focus.help=F3 + P = Mettre le jeu en pause à la perte de focus
 debug.pause_focus.off=Pause à la perte de focus : désactivée
 debug.pause_focus.on=Pause à la perte de focus : activée
 debug.prefix=[Débogage] :
+debug.reload_chunks.help=F3 + A = Recharger les chunks
 debug.reload_chunks.message=Rechargement de tous les chunks...
+debug.reload_resourcepacks.help=F3 + T = Recharger les packs de ressources
 debug.reload_resourcepacks.message=Packs de ressources rechargés
+debug.show_hitboxes.help=F3 + B = Afficher/cacher les masques de collision
 debug.show_hitboxes.off=Masques de collision : cachés
 debug.show_hitboxes.on=Masques de collision : affichés
+menu.paused=Jeu en pause

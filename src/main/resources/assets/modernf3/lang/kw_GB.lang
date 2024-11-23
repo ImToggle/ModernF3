@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Bleynyow-toul avonsys
 debug.advanced_tooltips.off=Bleynyow-toul avonsys: Anweladow
 debug.advanced_tooltips.on=Bleynyow-toul avonsys: Gweladow
+debug.chunk_boundaries.help=F3 + G = Diskwedhes oryon darn
 debug.chunk_boundaries.off=Emlow an darnow: Anweladow
 debug.chunk_boundaries.on=Emlow an darnow: Gweladow
+debug.clear_chat.help=F3 + D = Gwakhe keskows
+debug.copy_location.help=F3 + C = Kopia tyller avel gorhemmyn /tp, syns F3 + C rag klamdera an gwari
+debug.copy_location.message=Tyller a veu kopiys dhe'n skryp
+debug.crash.message=F3 + C yw synsys. Hemma a wra klamdera an gwari marnas ny hedh'ta.
 debug.crash.warning=Klamdera yn %s...
+debug.creative_spectator.help=F3 + N = Kylghres modh gwari kyns <-> mirer
+debug.help.help=F3 + Q = Diskwedhes an rol ma
+debug.help.message=Kolmans alhwedh:
+debug.pause.help=F3 + Esc = Powes heb rol powes (mar yll powes)
+debug.pause_focus.help=F3 + P = Powes pan yw fog kellys
 debug.pause_focus.off=Powes pan yw fog kellys: skwychys yn farow
 debug.pause_focus.on=Powes pan yw fog kellys: galosegys
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Daskarga darnow
 debug.reload_chunks.message=Daskarga oll an darnow
+debug.reload_resourcepacks.help=F3 + T = Daskarga kuntellow asnodhow
 debug.reload_resourcepacks.message=Kuntellow asnodhow dasskargys
+debug.show_hitboxes.help=F3 + B = Diskwedhes boksys-skatt
 debug.show_hitboxes.off=Kistyow skatt: Anweladow
 debug.show_hitboxes.on=Kistyow skatt: Gweladow
+menu.paused=Gwari Powesys

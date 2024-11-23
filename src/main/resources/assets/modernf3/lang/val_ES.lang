@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Descripció avançada d'objectes
 debug.advanced_tooltips.off=Descripció avançada d'objectes: amaga
 debug.advanced_tooltips.on=Descripció avançada d'objectes: mostra
+debug.chunk_boundaries.help=F3 + G = Mostra les vores dels chunks
 debug.chunk_boundaries.off=Vores dels chunks: amaga
 debug.chunk_boundaries.on=Vores dels chunks: mostra
+debug.clear_chat.help=F3 + D = Neteja el xat
+debug.copy_location.help=F3 + C = Copia la localització com a comandament /tp, mantín F3 + C per tancar bruscament el joc
+debug.copy_location.message=La posició s'ha copiat al porta-retalls
+debug.crash.message=Estàs prement F3 + C. Si no les deixes anar, el joc deixarà de funcionar.
 debug.crash.warning=Tancant bruscament el joc en %s...
+debug.creative_spectator.help=F3 + N = Alterna entre el mode de joc anterior <-> espectador
+debug.help.help=F3 + Q = Mostra esta llista
+debug.help.message=Dreceres de teclat:
+debug.pause.help=F3 + Esc = Pausa sense el menú de pausa (si el pausat és possible)
+debug.pause_focus.help=F3 + P = Pausa el joc en canviar de finestra
 debug.pause_focus.off=Pausa el joc en canviar de finestra: desactivat
 debug.pause_focus.on=Pausa el joc en canviar de finestra: activat
 debug.prefix=[Depurador]:
+debug.reload_chunks.help=F3 + A = Recarrega els chunks
 debug.reload_chunks.message=Recarregant tots els chunks
+debug.reload_resourcepacks.help=F3 + T = Recarrega els paquets de recursos
 debug.reload_resourcepacks.message=S'han recarregat els paquets de recursos
+debug.show_hitboxes.help=F3 + B = Mostra les hitboxes
 debug.show_hitboxes.off=Hitboxes: amaga
 debug.show_hitboxes.on=Hitboxes: mostra
+menu.paused=Joc pausat

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = გაფართოებული მინიშნებები
 debug.advanced_tooltips.off=გაფართოებული მინიშნებები: დამალული
 debug.advanced_tooltips.on=გაფართოებული მინიშნებები: ნაჩვენები
+debug.chunk_boundaries.help=F3 + G = უჯრების საზღვრების გამოსახვა
 debug.chunk_boundaries.off=უჯრის საზღვრები: დამალული
 debug.chunk_boundaries.on=უჯრის საზღრვები: ნაჩვენები
+debug.clear_chat.help=F3 + D = სასაუბროს გასუფთავება
+debug.copy_location.help=F3 + C = ლოკაციის კოპირება როგორც /tp ბრძანება, არ გაუშვათ F3 + C თამაშის გასაჭედად
+debug.copy_location.message=ლოკაცია ბუფერში დაკოპირდა
+debug.crash.message=F3 + C იწყება. ეს გამოიწვევს თამაშის გაუქმებას.
 debug.crash.warning=კრახის განცდა %s -ში...
+debug.creative_spectator.help=F3 + N = თამაშის რეჟიმის გადართვა <-> მაყურებელზე
+debug.help.help=F3 + Q = სიის გამოსახვა
+debug.help.message=ღილაკის დანიშნულებები:
+debug.pause.help=F3 + Esc = პაუზის გარეშე მენიუ (თუ შესაძლებელია პაუზის გაკეთება)
+debug.pause_focus.help=F3 + P = პაუზა ფანჯრის ფოკუსის დაკარგვისას
 debug.pause_focus.off=პაუზა ფანჯრის ფოკუსის დაკარგვისას: განრთული
 debug.pause_focus.on=პაუზა ფანჯრის ფოკუსის დაკარგვისას: ჩართული
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = უჯრების გადატვირთვა
 debug.reload_chunks.message=მიმდინარეობს ყველა უჯრის გადატვირთვა
+debug.reload_resourcepacks.help=F3 + T = რესურთა კრებულების გადატვირთვა
 debug.reload_resourcepacks.message=გადაიტვირთა რესურთა კრებულები
+debug.show_hitboxes.help=F3 + B = ჰითბოქსის გამოჩენა
 debug.show_hitboxes.off=ჰითბოქსები: დამალული
 debug.show_hitboxes.on=ჰითბოქსები: ნაჩვენები
+menu.paused=თამაში დაპაუზებულია

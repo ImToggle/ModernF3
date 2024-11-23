@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Avanserte verktøytips
 debug.advanced_tooltips.off=Avanserte verktøytips: skjult
 debug.advanced_tooltips.on=Avanserte verktøytips: synlig
+debug.chunk_boundaries.help=F3 + G = Vis stykkekanter
 debug.chunk_boundaries.off=Stykkekanter: skjulte
 debug.chunk_boundaries.on=Stykkekanter: viste
+debug.clear_chat.help=F3 + D = Tøm nettpraten
+debug.copy_location.help=F3 + C = Kopier plassering som /tp-kommando, hold F3 + C for å krasje spillet
+debug.copy_location.message=Kopierte plasseringen til utklippstavlen
+debug.crash.message=F3 + C holdes nede. Dette vil krasje spillet dersom de ikke slippes.
 debug.crash.warning=Krasjer om %s...
+debug.creative_spectator.help=F3 + N = Veksl mellom forrige spillmodus <-> tilskuer
+debug.help.help=F3 + Q = Vis denne listen
+debug.help.message=Tastebindinger:
+debug.pause.help=F3 + Esc = Pause uten pausemeny (om pausing er mulig)
+debug.pause_focus.help=F3 + P = Pause ved mistet fokus
 debug.pause_focus.off=Pause ved mistet fokus: deaktivert
 debug.pause_focus.on=Pause ved mistet fokus: aktivert
 debug.prefix=[Feilsøk]:
+debug.reload_chunks.help=F3 + A = Last inn alle stykker på nytt
 debug.reload_chunks.message=Laster inn alle stykker på nytt
+debug.reload_resourcepacks.help=F3 + T = Last ressurspakker på nytt
 debug.reload_resourcepacks.message=Ressurspakker innlastet på nytt
+debug.show_hitboxes.help=F3 + B = Vis treffbokser
 debug.show_hitboxes.off=Treffbokser: skjult
 debug.show_hitboxes.on=Treffbokser: vist
+menu.paused=Spill satt på pause

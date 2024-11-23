@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = 고급 도구 설명
 debug.advanced_tooltips.off=고급 도구 설명: 숨김
 debug.advanced_tooltips.on=고급 도구 설명: 표시
+debug.chunk_boundaries.help=F3 + G = 청크 경계 보이기
 debug.chunk_boundaries.off=청크 경계선: 숨김
 debug.chunk_boundaries.on=청크 경계선: 표시
+debug.clear_chat.help=F3 + D = 대화 내용 지우기
+debug.copy_location.help=F3 + C = 위치를 /tp 명령어로 복사, F3 + C를 누르고 있으면 게임에 크래시를 발생시킴
+debug.copy_location.message=위치를 클립보드에 복사했습니다
+debug.crash.message=F3 + C가 눌려 있습니다. 놓지 않으면 게임에 크래시를 발생시킵니다.
 debug.crash.warning=%s초 후 크래시...
+debug.creative_spectator.help=F3 + N = 이전 게임 모드 <-> 관전 모드 변경
+debug.help.help=F3 + Q = 이 목록 표시
+debug.help.message=키 바인딩:
+debug.pause.help=F3 + Esc = 일시 정지 메뉴 없이 일시 정지 (일시 정지가 가능할 경우)
+debug.pause_focus.help=F3 + P = 창이 포커스를 잃었을 때 일시 정지
 debug.pause_focus.off=창이 포커스를 잃었을 때 일시 정지: 꺼짐
 debug.pause_focus.on=창이 포커스를 잃었을 때 일시 정지: 켜짐
 debug.prefix=[디버그]:
+debug.reload_chunks.help=F3 + A = 청크 새로 고침
 debug.reload_chunks.message=모든 청크 새로 고침 중
+debug.reload_resourcepacks.help=F3 + T = 리소스 팩 새로 고침
 debug.reload_resourcepacks.message=리소스 팩을 새로 고쳤습니다
+debug.show_hitboxes.help=F3 + B = 히트박스 표시
 debug.show_hitboxes.off=히트박스: 숨김
 debug.show_hitboxes.on=히트박스: 표시
+menu.paused=게임 일시 정지

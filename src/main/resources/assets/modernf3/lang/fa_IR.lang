@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = نکته ابزار پیشرفته
 debug.advanced_tooltips.off=ابزار جزئیات پیشرفته: پنهان کردن
 debug.advanced_tooltips.on=ابزار جزئیات پیشرفته: نمایش دادن
+debug.chunk_boundaries.help=F3 + G = نمایش مرز تکه ها
 debug.chunk_boundaries.off=مرز تکه ها: پنهان کردن
 debug.chunk_boundaries.on=مرز تکه ها: نمایش دادن
+debug.clear_chat.help=F3 + D = پاک کردن چت
+debug.copy_location.help=F3+ C = کپی مکان بعنوان دستور /tp, نگه داشتن F3 + C برای کرش بازی
+debug.copy_location.message=موقعیت به کلیپ بورد کپی شد
+debug.crash.message=درحال حاضر F3 + C نگه داشته شده. بازی کرش خواهد رفت مگر اینکه شما آن را رها کنید.
 debug.crash.warning=کرش بازی در %s...
+debug.creative_spectator.help=F3 + N = تغيير بين حالت بازی قبلی <-> حالت تماشاگر
+debug.help.help=F3 + Q = نمایش این لیست
+debug.help.message=کليد های تعريف شده:
+debug.pause.help=F3 + Esc = توقف بازی بدون بازشدن منو توقف (اگر توقف کردن بازی ممکن باشد)
+debug.pause_focus.help=F3 + P = توقف هنگام از دست رفتن تمرکز از بازی
 debug.pause_focus.off=توقف هنگام از دست دادن تمرکز پنجره: غیرفعال شد
 debug.pause_focus.on=توقف هنگام از دست دادن تمرکز پنجره: فعال شد
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = بارگذاری مجدد تکه ها
 debug.reload_chunks.message=در حال بارگذاری دوباره تکه های زمین...
+debug.reload_resourcepacks.help=F3 + T = بارگذاری دوباره بسته های منابع
 debug.reload_resourcepacks.message=بسته های منابع دوباره بارگذاری شده
+debug.show_hitboxes.help=F3 + B = نمایش جعبه حمله
 debug.show_hitboxes.off=فضای ضربه خوردن: مخفی
 debug.show_hitboxes.on=فضای ضربه خوردن: نمایش
+menu.paused=بازی متوقف شد

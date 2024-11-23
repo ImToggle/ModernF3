@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Täpsemad näpunäited
 debug.advanced_tooltips.off=Täpsemad näpunäited: peidetud
 debug.advanced_tooltips.on=Täpsemad näpunäited: kuvatud
+debug.chunk_boundaries.help=F3 + G = Kuva kamakapiirded
 debug.chunk_boundaries.off=Kamakapiirded: peidetud
 debug.chunk_boundaries.on=Kamakapiirded: kuvatud
+debug.clear_chat.help=F3 + D = Tühjenda vestlus
+debug.copy_location.help=F3 + C = Kopeeri asukoht /tp käsklusena; hoia F3 + C, et jooksutada mäng kokku
+debug.copy_location.message=Asukoht kopeeritud lõikelauale
+debug.crash.message=Hoiad all klahve F3 + C. Kui sa neid lahti ei lase, jookseb mäng kokku.
 debug.crash.warning=Kokkujooksmine pärast %s...
+debug.creative_spectator.help=F3 + N = Vaheta eelmine mängurežiim <-> vaatlusrežiim
+debug.help.help=F3 + Q = Kuva see nimekiri
+debug.help.message=Kiirklahvid:
+debug.pause.help=F3 + Esc = Pausi ilma pausimenüüta (kui saab pausida)
+debug.pause_focus.help=F3 + P = Fookuse kaotamisel peata mäng
 debug.pause_focus.off=Peata fookuse kaotamisel: ei
 debug.pause_focus.on=Peata fookuse kaotamisel: jah
 debug.prefix=[Silur]:
+debug.reload_chunks.help=F3 + A = Laadi kamakad uuesti
 debug.reload_chunks.message=Laadin kõik kamakad uuesti
+debug.reload_resourcepacks.help=F3 + T = Laadi ressursipakid uuesti
 debug.reload_resourcepacks.message=Ressursipakid taaslaaditud
+debug.show_hitboxes.help=F3 + B = Kuva löögialad
 debug.show_hitboxes.off=Löögialad: peidetud
 debug.show_hitboxes.on=Löögialad: kuvatud
+menu.paused=Mäng pausil

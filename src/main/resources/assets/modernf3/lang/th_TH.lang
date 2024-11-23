@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = คำแนะนำขั้นสูง
 debug.advanced_tooltips.off=คำแนะนำขั้นสูง: ซ่อน
 debug.advanced_tooltips.on=คำแนะนำขั้นสูง: แสดง
+debug.chunk_boundaries.help=F3 + G = แสดงขอบเขตชังก์
 debug.chunk_boundaries.off=ขอบเขตชังก์: ซ่อน
 debug.chunk_boundaries.on=ขอบเขตชังก์: แสดง
+debug.clear_chat.help=F3 + D = ล้างแชต
+debug.copy_location.help=F3 + C = คัดลอกตำแหน่งเป็นคำสั่ง /tp, กด F3 + C ค้างไว้เพื่อทำให้เกมแครช
+debug.copy_location.message=คัดลอกตำแหน่งไปยังคลิปบอร์ดแล้ว
+debug.crash.message=การกด F3 + C ค้างไว้จะทำให้เกมแครชหากไม่ปล่อย
 debug.crash.warning=เกมแครชใน %s...
+debug.creative_spectator.help=F3 + N = วนไปโหมดเกมก่อนหน้านี้ <-> ผู้ชม
+debug.help.help=F3 + Q = แสดงรายการนี้
+debug.help.message=ปุ่มบังคับ:
+debug.pause.help=F3 + Esc = หยุดชั่วคราวโดยไม่มีเมนูหยุดชั่วคราว (ถ้าหยุดได้)
+debug.pause_focus.help=F3 + P = หยุดเมื่อหลุดการโฟกัส
 debug.pause_focus.off=หยุดเมื่อหลุดการโฟกัส: ปิดใช้งานแล้ว
 debug.pause_focus.on=หยุดเมื่อหลุดการโฟกัส: เปิดใช้งานแล้ว
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = รีโหลดชังก์
 debug.reload_chunks.message=กำลังรีโหลดชังก์ทั้งหมด
+debug.reload_resourcepacks.help=F3 + T = รีโหลดรีซอร์ซแพ็ก
 debug.reload_resourcepacks.message=รีโหลดรีซอร์ซแพ็กแล้ว
+debug.show_hitboxes.help=F3 + B = แสดงบริเวณโจมตี
 debug.show_hitboxes.off=บริเวณโจมตี: ซ่อน
 debug.show_hitboxes.on=บริเวณโจมตี: แสดง
+menu.paused=หยุดเกมชั่วคราว

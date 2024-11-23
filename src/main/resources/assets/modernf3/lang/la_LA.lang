@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F III + H = Descriptiones proditae
 debug.advanced_tooltips.off=Descriptiones proditae: latent
 debug.advanced_tooltips.on=Descriptiones proditae: monstrantur
+debug.chunk_boundaries.help=F III + G = Monstra fines partium
 debug.chunk_boundaries.off=Fines partium: latent
 debug.chunk_boundaries.on=Fines partium: monstrantur
+debug.clear_chat.help=F III + D = Purificare locutorium
+debug.copy_location.help=F III + C = Ut exemplum locus /tp iussus, habere F III + C ut corruere quod ludus
+debug.copy_location.message=Positio ad latibulum copiata est
+debug.crash.message=F III + C premitur. Hoc corruet ludus nisi absolutus erit.
 debug.crash.warning=Corruet post %s...
+debug.creative_spectator.help=F III + N = Commutare modum inter priorem modumque spectatoris
+debug.help.help=F III + Q = Ostendere hanc tabulam
+debug.help.message=Associationes clavium:
+debug.pause.help=F III + Fuga = Consiste sine aperire indicem optionum consistendi (si consistere licet)
+debug.pause_focus.help=F III + P = Consiste cum focus perditur
 debug.pause_focus.off=Consiste cum focus perditur: inactivum
 debug.pause_focus.on=Consiste cum focus perditur: activum
 debug.prefix=[Inquire]:
+debug.reload_chunks.help=F III + A = Relegere morsa
 debug.reload_chunks.message=Omnes partes reimponuntur
+debug.reload_resourcepacks.help=F III + T = Reimpono compilationes supplementorum
 debug.reload_resourcepacks.message=Compilationes supplementorum reimpositae sunt
+debug.show_hitboxes.help=F III + B = Monstra arcas feriendas
 debug.show_hitboxes.off=Arcae feriendae: abditae
 debug.show_hitboxes.on=Arcae feriendae: monstrantur
+menu.paused=Ludus consistit

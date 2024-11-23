@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Precizaj priskriboj
 debug.advanced_tooltips.off=Precizaj priskriboj: kaŝataj
 debug.advanced_tooltips.on=Precizaj priskriboj: montrataj
+debug.chunk_boundaries.help=F3 + G = Montri pecarlimojn
 debug.chunk_boundaries.off=Pecaraj limoj: kaŝataj
 debug.chunk_boundaries.on=Pecaraj limoj: montrataj
+debug.clear_chat.help=F3 + D = Viŝi babilejon
+debug.copy_location.help=F3 + C = Kopii lokon kiel /tp komandon, premu F3 + C por kraŝi la ludon
+debug.copy_location.message=La loko estas kopiita al la poŝo
+debug.crash.message=F3 + C estas premita. Tio kraŝos la ludon krom se malpremita.
 debug.crash.warning=Kraŝas post %s…
+debug.creative_spectator.help=F3 + N = Alterni: la antaŭa reĝimo <-> observa reĝimo
+debug.help.help=F3 + Q = Montri ĉi tiun liston
+debug.help.message=Klavkomandojn:
+debug.pause.help=F3 + Esk = Paŭzi sen la paŭzomenuo (se eblas paŭzi)
+debug.pause_focus.help=F3 + P = Paŭzi post foriri la ludfenestron
 debug.pause_focus.off=Paŭzi post foriri la ludfenestron: malaktivigita
 debug.pause_focus.on=Paŭzi post foriri la ludfenestron: aktivigita
 debug.prefix=[Sencimigo]:
+debug.reload_chunks.help=F3 + A = Reŝargi pecarojn
 debug.reload_chunks.message=Reŝargado de ĉiuj pecaroj
+debug.reload_resourcepacks.help=F3 + T = Reŝargi resurspakaĵojn
 debug.reload_resourcepacks.message=Resurspakaĵoj estas reŝargitaj
+debug.show_hitboxes.help=F3 + B = Montri batskatolojn
 debug.show_hitboxes.off=Batskatoloj: kaŝitaj
 debug.show_hitboxes.on=Batskatoloj: montritaj
+menu.paused=Ludo paŭziĝis

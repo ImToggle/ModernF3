@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Dárkkileappot reaidodieđut
 debug.advanced_tooltips.off=Dárkkileappot reaidodieđut: čihkkon
 debug.advanced_tooltips.on=Dárkkileappot reaidodieđut: oidnosis
+debug.chunk_boundaries.help=F3 + G = Čájet laiggusrájáid
 debug.chunk_boundaries.off=Laiggusráját: čihkon
 debug.chunk_boundaries.on=Laiggusráját: oidnosis
+debug.clear_chat.help=F3 + D = Sihko Čátta Čállosiid
+debug.copy_location.help=F3 + C = Máŋge iežat sajádaga /tp kommandoi, dahje doala guhkit áiggi F3 + C jus áiggut botket spealu
+debug.copy_location.message=Máŋgen sajádaga čuohpusbeavdái
+debug.crash.message=F3 + C deaddojuvvoba. Jus it luoitte boaluid, de krasje spealu.
 debug.crash.warning=Krasje fargga %s...
+debug.creative_spectator.help=F3 + N = Molsso ovddit speallanhámi ja geahččihámi gaska
+debug.help.help=F3 + Q = Oaidnit dán listu
+debug.help.message=Boalločadnosat:
+debug.pause.help=F3 + Esc = Bisseha spealu, muhto heivehusat eai iđe (jus lea vejolaš)
+debug.pause_focus.help=F3 + P = Bisset spealu go dasa it geahča
 debug.pause_focus.off=Bisset go it geahča speala: ii alde
 debug.pause_focus.on=Bisset go it geahča speala: alde
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Ođasmahte laigosiid
 debug.reload_chunks.message=Ođasmahttimin buot laigosiid
+debug.reload_resourcepacks.help=F3 + T = Ođasmahte resursapáhkaid
 debug.reload_resourcepacks.message=Ođasmahtii resursapáhkaid
+debug.show_hitboxes.help=F3 + B = Čájet deaivanbovssa
 debug.show_hitboxes.off=Hitboksat: Čihkosis
 debug.show_hitboxes.on=Hitboksat: Oidnosis
+menu.paused=Speallu Bissehuvvon

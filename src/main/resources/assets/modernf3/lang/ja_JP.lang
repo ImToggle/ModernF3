@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = 高度な情報を表示
 debug.advanced_tooltips.off=高度な情報：非表示
 debug.advanced_tooltips.on=高度な情報：表示
+debug.chunk_boundaries.help=F3 + G = チャンクの境界を表示
 debug.chunk_boundaries.off=チャンクの境界：非表示
 debug.chunk_boundaries.on=チャンクの境界：表示
+debug.clear_chat.help=F3 + D = チャット欄をクリア
+debug.copy_location.help=F3 + C = /tpコマンドとして座標をコピー、長押しでゲームをクラッシュ
+debug.copy_location.message=クリップボードに座標をコピーしました
+debug.crash.message=F3 + Cが押されています。離さないとゲームをクラッシュさせます。
 debug.crash.warning=あと%s秒でクラッシュします…
+debug.creative_spectator.help=F3 + N = 直前のゲームモードとスペクテイターモードを切り替え
+debug.help.help=F3 + Q = このリストを表示
+debug.help.message=キーの割り当て：
+debug.pause.help=F3 + Esc = メニューを開かずに一時停止（一時停止が可能な場合）
+debug.pause_focus.help=F3 + P = メニュー表示時でのゲームの一時停止を切り替え
 debug.pause_focus.off=フォーカスが外れた時にポーズ：無効
 debug.pause_focus.on=フォーカスが外れた時にポーズ：有効
 debug.prefix=［デバッグ］：
+debug.reload_chunks.help=F3 + A = チャンクを再読み込み
 debug.reload_chunks.message=すべてのチャンクを再読み込み中
+debug.reload_resourcepacks.help=F3 + T = リソースパックを再読み込み
 debug.reload_resourcepacks.message=リソースパックを再読み込みしました
+debug.show_hitboxes.help=F3 + B = 当たり判定を表示
 debug.show_hitboxes.off=当たり判定：非表示
 debug.show_hitboxes.on=当たり判定：表示
+menu.paused=ゲームを一時停止中

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Napredni opisi
 debug.advanced_tooltips.off=Napredni opisi predmeta: skriveni
 debug.advanced_tooltips.on=Napredni opisi predmeta: prikazani
+debug.chunk_boundaries.help=F3 + G = Prikaži granice dijelova svijeta
 debug.chunk_boundaries.off=Granice dijelova svijeta: skrivene
 debug.chunk_boundaries.on=Granice dijelova svijeta: prikazane
+debug.clear_chat.help=F3 + D = Izbriši razgovor
+debug.copy_location.help=F3 + C = Kopiraj lokaciju kao /tp naredbu, zadrži F3 + C za rušenje igre
+debug.copy_location.message=Lokacija kopirana u međuspremnik
+debug.crash.message=Držiš F3 + C. Ovo će srušiti igru ako ne pustiš tipke.
 debug.crash.warning=Rušenje u %s...
+debug.creative_spectator.help=F3 + N = Mijena prethodna vrsta igre ↔ gledatelj
+debug.help.help=F3 + Q = Pokaži ovaj popis
+debug.help.message=Postavke tipaka:
+debug.pause.help=F3 + Esc = Pauza bez izbornika za pauzu (ukoliko je pauza moguća)
+debug.pause_focus.help=F3 + P = Pauza kod gubitka fokusa
 debug.pause_focus.off=Pauziraj na izgubljeni fokus: onesposobljen
 debug.pause_focus.on=Pauziraj na izgubljeni fokus: omogućeno
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Ponovno učitaj dijelove svijeta
 debug.reload_chunks.message=Ponovno učitavam sve dijelove svijeta
+debug.reload_resourcepacks.help=F3 + T = Ponovno učitaj resurse
 debug.reload_resourcepacks.message=Paketi resursa ponovno su učitani
+debug.show_hitboxes.help=F3 + B = Prikaži područja udarca
 debug.show_hitboxes.off=Područja udarca: skrivena
 debug.show_hitboxes.on=Područja udarca: prikazana
+menu.paused=Igra pauzirana

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = معلومات مفصلة
 debug.advanced_tooltips.off=تلميحات متقدمة: مخفية
 debug.advanced_tooltips.on=تلميحات متقدمة: ظاهرة
+debug.chunk_boundaries.help=F3 + G = إظهار حدود القطعة
 debug.chunk_boundaries.off=حدود القطع: مخفية
 debug.chunk_boundaries.on=حدود القطع: ظاهرة
+debug.clear_chat.help=F3 + D = تنظيف التشات
+debug.copy_location.help=C + F3 = نسخ الموقع ككوماند التنقل tp command/، إضغط مطولا على C + F3 لتخريب اللعبة
+debug.copy_location.message=تم نسخ الموقع إلى الحافظة
+debug.crash.message=المفتاحان F3 + C مضغوطان. أفلتهما وإلا تعطلت اللعبة.
 debug.crash.warning=اللعبة ستتعطل بعد %s...
+debug.creative_spectator.help=F3 + N = التبديل بين نمط اللعب السابق <-> المشاهد
+debug.help.help=F3 + Q = إظهار هذه القائمة
+debug.help.message=الروابط الرئيسية:
+debug.pause.help=F3 + Esc = توقف العبه بدون توقف النيو (اذا توقف هذا مستحيل)
+debug.pause_focus.help=F3 + P = إيقاف مؤقت على فقدان التركيز
 debug.pause_focus.off=توقف عن فقدان التركيز: معطل
 debug.pause_focus.on=توقف عن فقدان التركيز: تمكين
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = إعادة تحميل المناطق
 debug.reload_chunks.message=يتم اعادة تحميل جميع القطع
+debug.reload_resourcepacks.help=F3 + T = إعادة تحميل حزم الموارد
 debug.reload_resourcepacks.message=تم إعادة تحميل حزم الموارد
+debug.show_hitboxes.help=F3 + B = إظهار مناطق استقبال الضرر
 debug.show_hitboxes.off=هيتبوكسيس: مخفي
 debug.show_hitboxes.on=هيتبوكسيس: ظاهر
+menu.paused=اللعبة موقفة مؤقتاً

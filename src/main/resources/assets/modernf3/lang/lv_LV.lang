@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Papildu rīku statistika
 debug.advanced_tooltips.off=Papildu rīku informācija: paslēpta
 debug.advanced_tooltips.on=Papildu rīku informācija: parādīta
+debug.chunk_boundaries.help=F3 + G = Parādīt gabalu robežas
 debug.chunk_boundaries.off=Gabalu barjeras: paslēptas
 debug.chunk_boundaries.on=Gabalu barjeras: parādītas
+debug.clear_chat.help=F3 + D = Attīrīt čatu
+debug.copy_location.help=F3 + C = kopēt atrašanās vietu /tp komandai, turēt F3 + C, lai izraisītu spēles avāriju
+debug.copy_location.message=Kopēta atrašanās vieta klipkopai
+debug.crash.message=F3 + C ir nospiests. Spēle nobruks, ja vien F3 + C netiks atlaists.
 debug.crash.warning=Avārija pēc %s...
+debug.creative_spectator.help=F3 + N = Mainīt iepriekšējo spēles režīmu <-> Skatītājs
+debug.help.help=F3 + Q = Parādīt šo sarakstu
+debug.help.message=Pogas stiprinājumi:
+debug.pause.help=F3 + Esc = Pauzēt, neparādot pauzes izvēlni (ja pauzēšana ir iespējama)
+debug.pause_focus.help=F3 + P = Nopauzēt pazaudējot fokusu
 debug.pause_focus.off=Nopauzēts uz pēdējo fokusu: izslēgts
 debug.pause_focus.on=Nopauzēts uz pēdējo fokusu: ieslēgts
 debug.prefix=[Atkļūdošana]:
+debug.reload_chunks.help=F3 + A = Pārlādēt gabalus
 debug.reload_chunks.message=Pārlādē visus gabalus
+debug.reload_resourcepacks.help=F3 + T = Pārlādēt resursu pakas
 debug.reload_resourcepacks.message=Pārlādētas resursu pakas
+debug.show_hitboxes.help=F3 + B = Parādīt vienības malas
 debug.show_hitboxes.off=Malu vienības: paslēptas
 debug.show_hitboxes.on=Malu vienības: parādītas
+menu.paused=Spēle apturēta

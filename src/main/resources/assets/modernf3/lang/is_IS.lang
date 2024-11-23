@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = þróaðari verkfæra upplýsingar
 debug.advanced_tooltips.off=Ítarleg tækjahjálp: falin
 debug.advanced_tooltips.on=Ítarleg tækjahjálp: sýnd
+debug.chunk_boundaries.help=F3 + G = Sýna mörk klúnka
 debug.chunk_boundaries.off=Klúnkamörk: falin
 debug.chunk_boundaries.on=Klúnkamörk: sýnd
+debug.clear_chat.help=F3 + D = Hreinsa spjall
+debug.copy_location.help=F3 + C = Afrita staðsetningu sem /tp skipun, halda niðri F3 + C til að láta leikinn hrynja
+debug.copy_location.message=Afritaði núverandi staðsetningu á klemmuspjald
+debug.crash.message=Þú ert að halda niðri F3 + C. Leikurinn hrynur ef ekki er sleppt.
 debug.crash.warning=Hrynur eftir %s...
+debug.creative_spectator.help=F3 + N = Skipta milli áhorfendahams og fyrrverandi leikgerðar
+debug.help.help=F3 + Q = Sýna þennan lista
+debug.help.message=Flýtilyklar:
+debug.pause.help=F3 + Esc = Gera hlé án valmyndar hlés (ef hægt er að gera hlé)
+debug.pause_focus.help=F3 + P = Hlé ef skipt um glugga
 debug.pause_focus.off=Gera hlé ef gluggi missir fókus: óvirkt
 debug.pause_focus.on=Gera hlé ef gluggi missir fókus: virkt
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Endurhlaða klúnka
 debug.reload_chunks.message=Endurhleðsla á öllum klúnkum
+debug.reload_resourcepacks.help=F3 + T = Endurhlaða efnispökkum
 debug.reload_resourcepacks.message=Endurhlaðnir efnispakkar
+debug.show_hitboxes.help=F3 + B = Sýna skotramma
 debug.show_hitboxes.off=Skotrammar: faldir
 debug.show_hitboxes.on=Skotrammar: sýndir
+menu.paused=Leikur í bið

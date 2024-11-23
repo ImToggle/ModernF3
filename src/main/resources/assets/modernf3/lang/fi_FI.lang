@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Edistyneemmät vinkit
 debug.advanced_tooltips.off=Edistyneet vinkit: piilossa
 debug.advanced_tooltips.on=Edistyneet vinkit: näkyvillä
+debug.chunk_boundaries.help=F3 + G = Näytä lohkon rajat
 debug.chunk_boundaries.off=Lohkon rajat: piilotettu
 debug.chunk_boundaries.on=Lohkojen rajat: näkyvillä
+debug.clear_chat.help=F3 + D = Tyhjennä keskustelu
+debug.copy_location.help=F3 + C = Kopioi sijainti /tp komentona, pidä F3 + C painettuna kaataaksesi pelin
+debug.copy_location.message=Sijainti kopioitu leikepöydälle
+debug.crash.message=F3 + C on painettuna. Tämä kaataa pelin ellei näppäimiä vapauteta.
 debug.crash.warning=Kaatuu %s...
+debug.creative_spectator.help=F3 + N = Vaihda edellinen pelitila <-> katsoja
+debug.help.help=F3 + Q = Näytä tämä lista
+debug.help.message=Näppäinmääritykset:
+debug.pause.help=F3 + Esc = Pysäytä ilman valikkoa (jos pysäytys on mahdollista)
+debug.pause_focus.help=F3 + P = Pysäytä kun tarkennus katoaa
 debug.pause_focus.off=Pysäytä kun tarkennus katoaa: poissa käytöstä
 debug.pause_focus.on=Pysäytä kun tarkennus katoaa: käytössä
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Lataa lohkot uudelleen
 debug.reload_chunks.message=Uudelleenladataan kaikki lohkot
+debug.reload_resourcepacks.help=F3 + T = Lataa resurssipaketit uudelleen
 debug.reload_resourcepacks.message=Resurssipaketit uudelleenladattiin
+debug.show_hitboxes.help=F3 + B = Näytä osuma-alueet
 debug.show_hitboxes.off=Osuma-alueet: piilotettu
 debug.show_hitboxes.on=Osuma-alueet: näkyvillä
+menu.paused=Peli pysäytetty

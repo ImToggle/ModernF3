@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Gevorderde nutswenke
 debug.advanced_tooltips.off=Gevorderde gereedskapstippe: verborge
 debug.advanced_tooltips.on=Gevorderde gereedskapstippe: gewys
+debug.chunk_boundaries.help=F3 + G = Wys stuk grense
 debug.chunk_boundaries.off=Chunk grense: verborge
 debug.chunk_boundaries.on=Stukgrense: sigbaar
+debug.clear_chat.help=F3 + D = Verwyder klets
+debug.copy_location.help=F3 + C = Kopieer posisie as /tp opdrag, hou F3 + C om die spel te breek
+debug.copy_location.message=Posisie gekopieer na knipbord
+debug.crash.message=F3 + C word gehou. Dit sal die spel verongeluk, tensy dit vrygestel word.
 debug.crash.warning=Omval in%s ...
+debug.creative_spectator.help=F3 + N = Siklus vorige spelmodus <-> toeskouer
+debug.help.help=F3 + Q = Wys hierdie lys
+debug.help.message=Sleutelbindings:
+debug.pause.help=F3 + Esc = Pauze sonder pauze menu (as pauze moontlik is)
+debug.pause_focus.help=F3 + P = Stop wanneer fokus verloor word
 debug.pause_focus.off=Pouse op verlore fokus: gedeaktiveer
 debug.pause_focus.on=Pouse op verlore fokus: aangeskakel
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Herlaai stukke
 debug.reload_chunks.message=Herlaai al die stukke
+debug.reload_resourcepacks.help=F3 + T = Herlaai hulpbronpakkette
 debug.reload_resourcepacks.message=Herlaai hulpbronpakkette
+debug.show_hitboxes.help=F3 + B = Wys trefbokse
 debug.show_hitboxes.off=Trefbokse: Versteek
 debug.show_hitboxes.on=Trefbokse: Getoon
+menu.paused=Spel Onderbreek

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Avanceret værktøjstips
 debug.advanced_tooltips.off=Avanceret værktøjstips: skjult
 debug.advanced_tooltips.on=Avanceret værktøjstips: vist
+debug.chunk_boundaries.help=F3 + G = Vis klods grænser
 debug.chunk_boundaries.off=Klods grænser: skjult
 debug.chunk_boundaries.on=Klods grænser: vist
+debug.clear_chat.help=F3 + D = Ryd chat
+debug.copy_location.help=F3 + C = kopier lokation som en /tp kommando, hold F3 + C for at lave et spil nedbrud
+debug.copy_location.message=Kopierede lokationen til udklipsholder
+debug.crash.message=F3 + C er holdt nede. Dette vil foråsage et spilnedbrud med mindre du giver slip.
 debug.crash.warning=Spilnedbrud om %s...
+debug.creative_spectator.help=F3 + N = Veksel forrige spiltilstand <-> tilskuer
+debug.help.help=F3 + Q = Vis denne liste
+debug.help.message=Tastebindinger:
+debug.pause.help=F3 + Esc = Sæt på pause uden pause menu (hvis pause er muligt)
+debug.pause_focus.help=F3 + P = Pause når ufokuseret
 debug.pause_focus.off=Pause når ufokuseret: deaktiveret
 debug.pause_focus.on=Pause når ufokuseret: aktiveret
 debug.prefix=[Fejlfinding]:
+debug.reload_chunks.help=F3 + A = Genindlæs klodser
 debug.reload_chunks.message=Genindlæser alle klodser
+debug.reload_resourcepacks.help=F3 + T = Genindlæs ressource pakker
 debug.reload_resourcepacks.message=Genindlæs ressource pakker
+debug.show_hitboxes.help=F3 + B = Vis hitbokse
 debug.show_hitboxes.off=Hitbokse: skjulte
 debug.show_hitboxes.on=Hitbokse: vist
+menu.paused=Spillet er på pause

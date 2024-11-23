@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Ardnodanna uirlise
 debug.advanced_tooltips.off=Ardnodanna uirlise: ceilte
 debug.advanced_tooltips.on=Ardnodanna uirlise: léirithe
+debug.chunk_boundaries.help=F3 + G = Taispeáin teorainneacha smután
 debug.chunk_boundaries.off=Teorainneacha an smutáin: ceilte
 debug.chunk_boundaries.on=Teorainneacha an smutáin: infheicthe
+debug.clear_chat.help=F3 + D = Glan comhrá
+debug.copy_location.help=F3 + C = Cóipeáil ionad mar ordú /tp, brú ar F3 + C don chluiche a chliseadh
+debug.copy_location.message=Ionad cóipeáilte ar ghearrthaisce
+debug.crash.message=F3 + C faoi bhrú. Clisfear an cluiche mura scaoiltear iad.
 debug.crash.warning=Cliseadh sa %s...
+debug.creative_spectator.help=F3 + N = Cycle previous game mode <-> spectator
+debug.help.help=F3 + Q = Léirigh an liosta seo
+debug.help.message=Ceangail na gClé:
+debug.pause.help=F3 + Esc = Cuir an cluiche ar sos gan an roghchlár (más féidir)
+debug.pause_focus.help=F3 + P = Cur sos nuair a chailltear fócas
 debug.pause_focus.off=Sos tar éis caillte fócais: díchumasaithe
 debug.pause_focus.on=Sos tar éis caillte fócais: cumasaithe
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Athlódáil smutáin
 debug.reload_chunks.message=Ag athlódáil gach smután
+debug.reload_resourcepacks.help=F3 + T = Athlódáil bearta acmhainní
 debug.reload_resourcepacks.message=Athlódáladh bearta acmhainní
+debug.show_hitboxes.help=F3 + B = Léirigh bualbhoscaí
 debug.show_hitboxes.off=Bualbhoscaí: ceilte
 debug.show_hitboxes.on=Bualbhoscaí: léirithe
+menu.paused=Cluiche ar sos

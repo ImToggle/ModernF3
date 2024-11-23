@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Ընդլայնված հուշումներ
 debug.advanced_tooltips.off=Ընդլայնված գործիքներ. Թաքնված
 debug.advanced_tooltips.on=Ընդլայնված գործիքների ցուցումներ. Ցուցադրված
+debug.chunk_boundaries.help=F3 + G = Ցույց տալ մասերի սահմանները
 debug.chunk_boundaries.off=Մասիի սահմաններ՝ Թաքնված
 debug.chunk_boundaries.on=Մասի սահմաններ՝ Ցույց է տրված
+debug.clear_chat.help=F3 + D = Մաքրել զրույցը
+debug.copy_location.help=F3 + C = Պատճենել տեղը՝ որպես /tp հրաման, խաղի խափանման համար պահել F3 + C
+debug.copy_location.message=Պատճենել գտնվելու վայրը հենակետ
+debug.crash.message=F3 + C-ն պահվում է: Բաց չթողնելու դեպքում խաղը կխափանվի։
 debug.crash.warning=Վթարի է ենթարկվում %s...
+debug.creative_spectator.help=F3 + N = Հանգույց խաղի նախորդ ռեժիմում <-> դիտորդ
+debug.help.help=F3 + Q = Տեսնել այս ցանկը
+debug.help.message=Հիմնական պարտավորությունները:
+debug.pause.help=F3 + Esc = Դադար առանց դադարի ցանկի (եթե դադարեցումը հնարավոր է)
+debug.pause_focus.help=F3 + P = Կանգնել ֆոկուսի կորուստի դեպքում
 debug.pause_focus.off=Դադարել ֆոկուսը կորցնելուց՝ անջատած
 debug.pause_focus.on=Դադարել ֆոկուսը կորցնելուց՝ միացած
 debug.prefix=[Debug]՝
+debug.reload_chunks.help=F3 + A = վերագործարկել մասերը
 debug.reload_chunks.message=Վերաբեռնում են բոլոր մասերը
+debug.reload_resourcepacks.help=F3 + T = Վերաբեռնել պաշարների փաթեթները
 debug.reload_resourcepacks.message=Պաշարների փաթեթները վերաբեռնվել են
+debug.show_hitboxes.help=F3 + B = Ցույց տալ հիթբոքսները
 debug.show_hitboxes.off=Հարված տուփեր. Թաքնված
 debug.show_hitboxes.on=Ցույց տրված
+menu.paused=Խաղը կանգնեցվել է

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Għajnuniet avanzati
 debug.advanced_tooltips.off=ToolTips avvanzati: moħbija
 debug.advanced_tooltips.on=Suġġerimenti avvanzati: murija
+debug.chunk_boundaries.help=F3 + G = Uri l-konfini tal-biċċiet
 debug.chunk_boundaries.off=Laqx tal-fruntieri: moħbi
 debug.chunk_boundaries.on=Laqx tal-fruntieri: muri
+debug.clear_chat.help=F3 + D = Ċar chat
+debug.copy_location.help=F3 + C = Ikkopja l-post bħala / tp kmand, żomm F3 + C biex tiġrifa l-logħba
+debug.copy_location.message=Post ikkupjat għal Clipboard
+debug.crash.message=F3 + C. Dan se jikkraxxja l-log ħba sakemm ma jinħeles.
 debug.crash.warning=Qed jiġi kkraxxja fi%s...
+debug.creative_spectator.help=F3 + N = Cycle previous game mode <-> spectator
+debug.help.help=F3 + Q = Uri din il-lista
+debug.help.message=Irbit taċ-snien:
+debug.pause.help=F3 + ESC = Issospendi mingħajr il-menu tal-paw ża (jekk ikun possibbli li jkun hemm l-u żu)
+debug.pause_focus.help=F3 + P = Pawża fuq fokus mitluf
 debug.pause_focus.off=Issospendi fuq il-fokus mitluf: diżattivat
 debug.pause_focus.on=Issospendi fuq il-fokus mitluf: attivat
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Biċċiet tat-tagħbija mill-ġdid
 debug.reload_chunks.message=Tagħbija mill-ġdid tal-furmaturi kollha
+debug.reload_resourcepacks.help=F3 + T = Tagħbija mill-ġdid il-pakketti tar-riżorsi
 debug.reload_resourcepacks.message=Irlowdjat pakketti tar-ri żorsi
+debug.show_hitboxes.help=F3 + B = Uri kaxxi tal-hit
 debug.show_hitboxes.off=Kaxxi tal-hit: moħbija
 debug.show_hitboxes.on=Kaxxi tal-hit: murija
+menu.paused=Logħba Pawża

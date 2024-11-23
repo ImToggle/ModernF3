@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Descrieri avansate
 debug.advanced_tooltips.off=Descrieri avansate: ascunse
 debug.advanced_tooltips.on=Descrieri avansate: vizibile
+debug.chunk_boundaries.help=F3 + G = Arată granițele chunkurilor
 debug.chunk_boundaries.off=Granițe de chunkuri: ascunse
 debug.chunk_boundaries.on=Granițe de chunkuri: vizibile
+debug.clear_chat.help=F3 + D = Golește chatul
+debug.copy_location.help=F3 + C = Copiază locația ca în comanda /tp; ține apăsat pentru a da crash
+debug.copy_location.message=Locație copiată în clipboard
+debug.crash.message=F3 + C sunt apăsate. Se va produce un crash dacă nu le dai drumul.
 debug.crash.warning=Crash în %s...
+debug.creative_spectator.help=F3 + N = Schimbă între modul de joc anterior <-> spectator
+debug.help.help=F3 + Q = Arată această listă
+debug.help.message=Combinații de taste:
+debug.pause.help=F3 + Esc = Pauză fără meniu de pauză (dacă pauza este posibilă)
+debug.pause_focus.help=F3 + P = Pune pauză la schimbarea ferestrei
 debug.pause_focus.off=Pauză la schimbarea ferestrei: dezactivată
 debug.pause_focus.on=Pauză la schimbarea ferestrei: activată
 debug.prefix=[Depanare]:
+debug.reload_chunks.help=F3 + A = Reîncarcă chunkurile
 debug.reload_chunks.message=Se reîncarcă toate chunkurile
+debug.reload_resourcepacks.help=F3 + T = Reîncarcă pachetele de resurse
 debug.reload_resourcepacks.message=S-au reîncărcat pachetele de resurse
+debug.show_hitboxes.help=F3 + B = Arată cutiile de coliziune
 debug.show_hitboxes.off=Cutii de coliziune: ascunse
 debug.show_hitboxes.on=Cutii de coliziune: vizibile
+menu.paused=Jocul pauzat

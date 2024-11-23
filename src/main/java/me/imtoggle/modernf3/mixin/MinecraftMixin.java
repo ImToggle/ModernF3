@@ -1,19 +1,24 @@
 package me.imtoggle.modernf3.mixin;
 
 import me.imtoggle.modernf3.UtilKt;
+import me.imtoggle.modernf3.screen.PauseScreen;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.settings.GameSettings;
 import net.minecraft.client.settings.KeyBinding;
+import org.lwjgl.input.Keyboard;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.*;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.invoke.arg.Args;
 
 @Mixin(Minecraft.class)
 public abstract class MinecraftMixin {
 
     @Shadow public GameSettings gameSettings;
+
+    @Shadow public abstract void displayGuiScreen(GuiScreen guiScreenIn);
 
     @Inject(method = "runTick", at = @At(value = "INVOKE", target = "Lnet/minecraft/profiler/Profiler;endStartSection(Ljava/lang/String;)V", ordinal = 2, shift = At.Shift.AFTER))
     private void onTick(CallbackInfo ci) {
@@ -47,6 +52,13 @@ public abstract class MinecraftMixin {
         gameSettings.renderDistanceChunks += GuiScreen.isShiftKeyDown() ? -1 : 1;
         gameSettings.renderDistanceChunks = Math.max(Math.min(gameSettings.renderDistanceChunks, (int) GameSettings.Options.RENDER_DISTANCE.getValueMax()), 2);
         gameSettings.saveOptions();
+    }
+
+    @Inject(method = "displayInGameMenu", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/audio/SoundHandler;pauseSounds()V"))
+    private void pauseMenu(CallbackInfo ci) {
+        if (Keyboard.isKeyDown(61)) {
+            displayGuiScreen(new PauseScreen());
+        }
     }
 
     @Redirect(method = "runTick", at = @At(value = "FIELD", target = "Lnet/minecraft/client/Minecraft;debugCrashKeyPressTime:J", ordinal = 0))

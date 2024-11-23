@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Avançar las botiòlas-conselh
 debug.advanced_tooltips.off=Botiòlas-conselh avançadas: amagadas
 debug.advanced_tooltips.on=Botiòlas-conselh avançadas: visiblas
+debug.chunk_boundaries.help=F3 + G = Mostrar los limites de tròces
 debug.chunk_boundaries.off=Limites de tròces: amagats
 debug.chunk_boundaries.on=Limites de tròces: visibles
+debug.clear_chat.help=F3 + D = Netejar la charrada
+debug.copy_location.help=F3 + C = Copiar la posicion coma /tp comanda, manténer F3 + C per crashèr el juòc
+debug.copy_location.message=Posicion copiada dins lo cachapapièrs
+debug.crash.message=F3 + C èst mantengut. Aquò harà crachèr el juòc.
 debug.crash.warning=Crash en %s...
+debug.creative_spectator.help=F3 + N = Cycle previous game mode <-> spectator
+debug.help.help=F3 + Q = Mostrar aquesta lista
+debug.help.message=Corcha clavièr:
+debug.pause.help=F3 + Esc = Pausa sens lo menut de pausa (se la pausa es possibla)
+debug.pause_focus.help=F3 + P = Pausar au moment de pèrda de focus
 debug.pause_focus.off=Pausa au moment de pèrda de focus: desactivada
 debug.pause_focus.on=Pausa au moment de pèrda de focus: activada
 debug.prefix=[Desbogatge]:
+debug.reload_chunks.help=F3 + A = Recargar los tròces
 debug.reload_chunks.message=Recargament de totes los tròces
+debug.reload_resourcepacks.help=F3 + T = Tornar cargar los paquets de ressorsa
 debug.reload_resourcepacks.message=Paquets de ressorsa tornat cargar
+debug.show_hitboxes.help=F3 + B = Mostrar las bóstias de collision
 debug.show_hitboxes.off=Bóstias de collision: amagadas
 debug.show_hitboxes.on=Bóstias de collision: visiblas
+menu.paused=Juòc en pausa

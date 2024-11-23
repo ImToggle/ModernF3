@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Розширені підказки
 debug.advanced_tooltips.off=Розширені підказки: приховані
 debug.advanced_tooltips.on=Розширені підказки: показані
+debug.chunk_boundaries.help=F3 + G = Показати межі чанків
 debug.chunk_boundaries.off=Межі чанків: приховані
 debug.chunk_boundaries.on=Межі чанків: показуються
+debug.clear_chat.help=F3 + D = Очистити чат
+debug.copy_location.help=F3 + C = Скопіювати місцеперебування як команду /tp; тримайте F3 + C, щоб викликати збій гри
+debug.copy_location.message=Скопійовано місцеперебування в буфер обміну
+debug.crash.message=Натиснуто F3 + C. Це приведе до аварійного завершення гри, якщо не відпустите.
 debug.crash.warning=Збій через %s…
+debug.creative_spectator.help=F3 + N = Перемкнути попередній режим гри <-> спостерігач
+debug.help.help=F3 + Q = Показати цей список
+debug.help.message=Призначення клавіш:
+debug.pause.help=F3 + Esc = Призупиняти гру без меню призупинення (якщо призупинення можливе)
+debug.pause_focus.help=F3 + P = Призупиняти при переході до іншого вікна
 debug.pause_focus.off=Призупинення при переході до іншого вікна: вимкнене
 debug.pause_focus.on=Призупинення при переході до іншого вікна: увімкнене
 debug.prefix=[Налагодження]:
+debug.reload_chunks.help=F3 + A = Перезавантажити чанки
 debug.reload_chunks.message=Перезавантаження всіх чанків
+debug.reload_resourcepacks.help=F3 + T = Перезавантажити пакети ресурсів
 debug.reload_resourcepacks.message=Перезавантажено пакети ресурсів
+debug.show_hitboxes.help=F3 + B = Показати гитбокси
 debug.show_hitboxes.off=Гитбокси: приховані
 debug.show_hitboxes.on=Гитбокси: показані
+menu.paused=Гру призупинено

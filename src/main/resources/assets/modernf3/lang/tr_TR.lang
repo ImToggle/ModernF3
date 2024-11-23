@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Gelişmiş açıklamalar
 debug.advanced_tooltips.off=Gelişmiş açıklamalar: gizli
 debug.advanced_tooltips.on=Gelişmiş açıklamalar: görünür
+debug.chunk_boundaries.help=F3 + G = Yığın sınırlarını göster
 debug.chunk_boundaries.off=Yığın sınırları: gizli
 debug.chunk_boundaries.on=Yığın sınırları: görünür
+debug.clear_chat.help=F3 + D = Sohbeti temizle
+debug.copy_location.help=F3 + C = Konumu /tp komutu olarak kopyala, oyunu çökertmek için F3 + C'ye basılı tutun
+debug.copy_location.message=Konum panoya kopyalandı
+debug.crash.message=F3 + C basılı tutuluyor. Eğer bırakılmazsa oyun çökecek.
 debug.crash.warning=Çökmeye %s...
+debug.creative_spectator.help=F3 + N = Önceki oyun modu <-> seyirci arasında geçiş yap
+debug.help.help=F3 + Q = Bu listeyi göster
+debug.help.message=Tuş atamaları:
+debug.pause.help=F3 + Esc = Menü olmadan durdur (eğer durdurmak mümkünse)
+debug.pause_focus.help=F3 + P = Odak kaybolunca duraklat
 debug.pause_focus.off=Odak kaybında duraklatma: kapalı
 debug.pause_focus.on=Odak kaybında duraklatma: açık
 debug.prefix=[Hata Ayıklama]:
+debug.reload_chunks.help=F3 + A = Yığınları yeniden yükle
 debug.reload_chunks.message=Tüm yığınlar yeniden yükleniyor
+debug.reload_resourcepacks.help=F3 + T = Kaynak paketlerini yeniden yükle
 debug.reload_resourcepacks.message=Kaynak paketleri yeniden yüklendi
+debug.show_hitboxes.help=F3 + B = Vurma kutularını göster
 debug.show_hitboxes.off=Vurma kutuları: gizli
 debug.show_hitboxes.on=Vurma kutuları: görünür
+menu.paused=Oyun Duraklatıldı

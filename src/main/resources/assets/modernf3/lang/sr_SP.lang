@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Напредни описи алата
 debug.advanced_tooltips.off=Напредни описи алата: скривени
 debug.advanced_tooltips.on=Напредни описи алата: приказани
+debug.chunk_boundaries.help=F3 + G = Прикажи границе чанкова
 debug.chunk_boundaries.off=Границе чанкова: Скривене
 debug.chunk_boundaries.on=Границе чанкова: Видљиве
+debug.clear_chat.help=F3 + D = Обриши чет
+debug.copy_location.help=F3 + C = Копирај локацију као /tp команду, држи F3 + C да зауставите игру
+debug.copy_location.message=Копирана локација у привремену меморију
+debug.crash.message=F3 + C се држи. Ово ће срушити игру уколико се не отпусти.
 debug.crash.warning=Рушење у %s...
+debug.creative_spectator.help=F3 + N = Кружи претходни режим игре <-> посматрачки мод
+debug.help.help=F3 + P = Прикажи ову листу
+debug.help.message=Поставке дирки:
+debug.pause.help=F3 + Esc = Паузирај без одласка у мени (ако је прекидање игре могуће)
+debug.pause_focus.help=F3 + P = Пауза на изгубљеном фокусу
 debug.pause_focus.off=Пауза на изгубљеном фокусу: онемогућена
 debug.pause_focus.on=Пауза на изгубљеном фокусу: омогућена
 debug.prefix=[Дебаг]:
+debug.reload_chunks.help=F3 + A = Поновно учитавање чанкова
 debug.reload_chunks.message=Освежи све чанкове
+debug.reload_resourcepacks.help=F3 + T = поново учитај пакете ресурса
 debug.reload_resourcepacks.message=Пакети ресурса поново учитани
+debug.show_hitboxes.help=F3 + B = Прикажи Hitbox-ове
 debug.show_hitboxes.off=Ширина ударца: сакривена
 debug.show_hitboxes.on=Ширина ударца: приказана
+menu.paused=Игра паузирана

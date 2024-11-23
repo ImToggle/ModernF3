@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Advanced tooltips
 debug.advanced_tooltips.off=Advanced tooltips: hidden
 debug.advanced_tooltips.on=Advanced tooltips: shown
+debug.chunk_boundaries.help=F3 + G = Show chunk boundaries
 debug.chunk_boundaries.off=Chunk borders: hidden
 debug.chunk_boundaries.on=Chunk borders: shown
+debug.clear_chat.help=F3 + D = Clear chat
+debug.copy_location.help=F3 + C = Copy location as /tp command, hold F3 + C to crash the game
+debug.copy_location.message=Copied location to clipboard
+debug.crash.message=F3 + C is held down. This will crash the game unless released.
 debug.crash.warning=Crashing in %s...
+debug.creative_spectator.help=F3 + N = Cycle previous game mode <-> spectator
+debug.help.help=F3 + Q = Show this list
+debug.help.message=Key bindings:
+debug.pause_focus.help=F3 + P = Pause on lost focus
 debug.pause_focus.off=Pause on lost focus: disabled
 debug.pause_focus.on=Pause on lost focus: enabled
+debug.pause.help=F3 + Esc = Pause without pause menu (if pausing is possible)
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Reload chunks
 debug.reload_chunks.message=Reloading all chunks
+debug.reload_resourcepacks.help=F3 + T = Reload resource packs
 debug.reload_resourcepacks.message=Reloaded resource packs
+debug.show_hitboxes.help=F3 + B = Show hitboxes
 debug.show_hitboxes.off=Hitboxes: hidden
 debug.show_hitboxes.on=Hitboxes: shown
+menu.paused=Game Paused

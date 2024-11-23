@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Descrições avançadas
 debug.advanced_tooltips.off=Descrições avançadas: Ocultas
 debug.advanced_tooltips.on=Descrições avançadas: Visíveis
+debug.chunk_boundaries.help=F3 + G = Mostrar limites de chunks
 debug.chunk_boundaries.off=Limites de chunks: Ocultos
 debug.chunk_boundaries.on=Limites de chunks: Visíveis
+debug.clear_chat.help=F3 + D = Limpar o chat
+debug.copy_location.help=F3 + C = Copiar a posição como comando /tp. Segura para fechares o jogo
+debug.copy_location.message=A posição foi copiada
+debug.crash.message=As teclas F3 + C estão premidas. O jogo será forçado a fechar a menos que sejam largadas.
 debug.crash.warning=A fechar o jogo em %s...
+debug.creative_spectator.help=F3 + N = Trocar entre o modo de jogo anterior <-> Espectador
+debug.help.help=F3 + Q = Mostrar esta lista
+debug.help.message=Combinações de teclas:
+debug.pause.help=F3 + Esc = Pausar o jogo sem abrir o menu de pausa (se possível)
+debug.pause_focus.help=F3 + P = Pausar o jogo ao mudar de janela
 debug.pause_focus.off=Pausar o jogo ao mudar de janela: Não
 debug.pause_focus.on=Pausar o jogo ao mudar de janela: Sim
 debug.prefix=[Depuração]:
+debug.reload_chunks.help=F3 + A = Recarregar chunks
 debug.reload_chunks.message=A recarregar todos os chunks
+debug.reload_resourcepacks.help=F3 + T = Recarregar pacotes de recursos
 debug.reload_resourcepacks.message=Pacotes de recursos recarregados
+debug.show_hitboxes.help=F3 + B = Mostrar caixas de colisão
 debug.show_hitboxes.off=Caixas de colisão: Ocultas
 debug.show_hitboxes.on=Caixas de colisão: Visíveis
+menu.paused=Pausa

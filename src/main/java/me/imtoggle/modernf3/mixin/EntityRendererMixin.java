@@ -1,6 +1,6 @@
 package me.imtoggle.modernf3.mixin;
 
-import me.imtoggle.modernf3.ChunkBorderRenderer;
+import me.imtoggle.modernf3.renderer.ChunkBorderRenderer;
 import net.minecraft.client.renderer.EntityRenderer;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Avancerade inforutor
 debug.advanced_tooltips.off=Avancerade inforutor: Döljs
 debug.advanced_tooltips.on=Avancerade inforutor: Visas
+debug.chunk_boundaries.help=F3 + G = Visa datablocksgränser
 debug.chunk_boundaries.off=Datablocksgränser: Döljs
 debug.chunk_boundaries.on=Datablocksgränser: Visas
+debug.clear_chat.help=F3 + D = Rensa chatten
+debug.copy_location.help=F3 + C = Kopiera position som kommandot /tp, håll ned F3 + C för att krascha spelet
+debug.copy_location.message=Kopierade positionen till urklipp
+debug.crash.message=F3 + C hålls ned. Detta kommer att krascha spelet om det inte släppts.
 debug.crash.warning=Kraschar om %s...
+debug.creative_spectator.help=F3 + N = Växla mellan föregående spelläge <-> åskådare
+debug.help.help=F3 + Q = Visa denna lista
+debug.help.message=Kortkommandon:
+debug.pause.help=F3 + Esc = Pausa utan pausmeny (om det går att pausa)
+debug.pause_focus.help=F3 + P = Pausa vid förlorad fokus
 debug.pause_focus.off=Pausa vid förlorat fokus: AV
 debug.pause_focus.on=Pausa vid förlorat fokus: PÅ
 debug.prefix=[Felsökning]:
+debug.reload_chunks.help=F3 + A = Uppdatera datablock
 debug.reload_chunks.message=Uppdaterar alla datablock
+debug.reload_resourcepacks.help=F3 + T = Uppdatera resurspaket
 debug.reload_resourcepacks.message=Uppdaterade resurspaket
+debug.show_hitboxes.help=F3 + B = Visa hitbox
 debug.show_hitboxes.off=Hitboxar: Döljs
 debug.show_hitboxes.on=Hitboxar: Visas
+menu.paused=Spelet är pausat

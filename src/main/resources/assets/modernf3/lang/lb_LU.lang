@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Erweidert Schnellinfos
 debug.advanced_tooltips.off=Erweidert Schnellinfos: verstoppt
 debug.advanced_tooltips.on=Erweidert Schnellinfos: siichtbar
+debug.chunk_boundaries.help=F3 + G = Chunkgrenzen uweisen
 debug.chunk_boundaries.off=Chunkgrenzen: verstoppt
 debug.chunk_boundaries.on=Chunkgrenzen: siichtbar
+debug.clear_chat.help=F3 + D = Chat eidel maachen
+debug.copy_location.help=F3 + C = Positioun als /tp-Befeel kopéieren oder gedréckt halen, fir een Ofstuerz ze erzwéngen
+debug.copy_location.message=Positioun gouf an den Tëschespäicher kopéieren
+debug.crash.message=F3 + C si gedréckt. Dat wäert d'Spill ofstierze loossen, wann net lassgelooss gëtt.
 debug.crash.warning=Ofstuerz an %s ...
+debug.creative_spectator.help=F3 + N = Tëschent leschtem Spillmodus an Zuschauermodus wiesselen
+debug.help.help=F3 + Q = Dës Lëscht uweisen
+debug.help.message=Tastaturlayout:
+debug.pause.help=F3 + Esc = Spill ouni Pause Menü unhalen (falls méiglech)
+debug.pause_focus.help=F3 + P = Pause bei Fokusverloscht
 debug.pause_focus.off=Pause bei Fokusverloscht: desaktivéiert
 debug.pause_focus.on=Pause bei Fokusverloscht: aktivéiert
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunks néi lueden
 debug.reload_chunks.message=D'Chunks ginn all néi gelueden
+debug.reload_resourcepacks.help=F3 + T = Ressourcepäck néi lueden
 debug.reload_resourcepacks.message=Ressourcepäck néi gelueden
+debug.show_hitboxes.help=F3 + B = Hitboxen uweisen
 debug.show_hitboxes.off=Hitboxen: verstoppt
 debug.show_hitboxes.on=Hitboxen: siichtbar
+menu.paused=Spill gepaust

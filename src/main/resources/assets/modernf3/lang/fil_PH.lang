@@ -1,12 +1,28 @@
+debug.advanced_tooltips.help=F3 + H = Masalimuot na mga tooltip
 debug.advanced_tooltips.off=Masalimuot na mga tooltip: itinatago
 debug.advanced_tooltips.on=Masalimuot na mga tooltip: ipinapakita
+debug.chunk_boundaries.help=F3 + G = Ipakita ang mga hangganan ng tipak
 debug.chunk_boundaries.off=Border ng tipak: itinatago
 debug.chunk_boundaries.on=Border ng tipak: ipinapakita
+debug.clear_chat.help=F3 + D = Burahin ang chat
+debug.copy_location.help=F3 + C = Kopyahin ang lokasyon bilang command na /tp, hawakan ang F3 + C para bumagsak ang laro
+debug.copy_location.message=Kinopya ang lokasyon papunta sa clipboard
+debug.crash.message=Hinahawakan ang F3 + C. Isasara nito ang laro kapag hindi binitawan.
 debug.crash.warning=Magsasara sa %s...
+debug.creative_spectator.help=
+F3 + N = Ikot ang nakaraang laro mode manonood
+debug.help.help=F3 + Q = Ipakita ang listahang ito
+debug.help.message=Iyong ayos ng pindutan:
+debug.pause.help=F3 + Esc = I-pause nang walang menu (Kung ang pagpause ay pwede)
+debug.pause_focus.help=F3 + P = Patigilin sa pagkawala ng pokus
 debug.pause_focus.off=Patigilin sa pagkawala ng pokus: di-pinagana
 debug.pause_focus.on=Patigilin sa pagkawala ng pokus: pinagana
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = I-reload ang mga tipak
 debug.reload_chunks.message=Ini-re-reload ang lahat ng mga tipak
+debug.reload_resourcepacks.help=F3 + T = I-reload ang mga resource pack
 debug.reload_resourcepacks.message=Inulit ang mga resource pack
+debug.show_hitboxes.help=F3 + B = Ipakita ang mga hitbox
 debug.show_hitboxes.off=Hitbox: itinatago
 debug.show_hitboxes.on=Hitbox: ipinapakita
+menu.paused=Nakahinto ang laro

@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Προηγμένα εργαλεία
 debug.advanced_tooltips.off=Προηγμένα εργαλεία: κρυμμένα
 debug.advanced_tooltips.on=Προηγμένα εργαλεία: ορατά
+debug.chunk_boundaries.help=F3 + G = Εμφάνιση ορίων τμημάτων
 debug.chunk_boundaries.off=Όρια τμημάτων: κρυμμένα
 debug.chunk_boundaries.on=Όρια τμημάτων: ορατά
+debug.clear_chat.help=F3 + D = Εκκαθάριση συνομιλίας
+debug.copy_location.help=F3 + C = Αντιγραφή τοποθεσίας ως εντολή /tp, κράτημα F3 + C για κρασάρισμα του παιχνιδιού
+debug.copy_location.message=Αντιγράφηκε η τοποθεσία στο πρόχειρο
+debug.crash.message=Τα πλήκτρα F3 + C είναι πατημένα. Αυτό θα κρασάρει το παιχνίδι εκτός αν αφεθούν.
 debug.crash.warning=Κρασάρισμα σε %s...
+debug.creative_spectator.help=F3 + N = Αλλαγή προηγούμενης λειτουργίας παιχνιδιού <-> θεατή
+debug.help.help=F3 + Q = Εμφάνιση αυτής της λίστας
+debug.help.message=Συνδυασμοί πλήκτρων:
+debug.pause.help=F3 + Esc = Παύση χωρίς το μενού παύσης (αν η παύση είναι εφικτή)
+debug.pause_focus.help=F3 + P = Παύση σε χαμένη εστίαση
 debug.pause_focus.off=Παύση σε χαμένη εστίαση: απενεργοποιημένη
 debug.pause_focus.on=Παύση σε χαμένη εστίαση: ενεργοποιημένη
 debug.prefix=[Αποσφαλμάτωση]:
+debug.reload_chunks.help=F3 + A = Επαναφόρτωση τμημάτων
 debug.reload_chunks.message=Επαναφόρτωση όλων των τμημάτων
+debug.reload_resourcepacks.help=F3 + T = Επαναφόρτωση πακέτων πόρων
 debug.reload_resourcepacks.message=Επαναφορτώθηκαν τα πακέτα πόρων
+debug.show_hitboxes.help=F3 + Β = Εμφάνιση πλαισίων οντότητας
 debug.show_hitboxes.off=Πλαίσια οντότητας: κρυμμένα
 debug.show_hitboxes.on=Πλαίσια οντότητας: ορατά
+menu.paused=Παύση Παιχνιδιού

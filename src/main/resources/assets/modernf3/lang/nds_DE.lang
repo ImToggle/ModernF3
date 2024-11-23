@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Upwiedert Gauinformatschoonen
 debug.advanced_tooltips.off=Upwiedert Gauinformatschoonen: vöbuorgen
 debug.advanced_tooltips.on=Upwiedert Gauinformatschoonen: sichtbaor
+debug.chunk_boundaries.help=F3 + G = Chunkgrenzen angeven
 debug.chunk_boundaries.off=Chunkgrensen: vöbuorgen
 debug.chunk_boundaries.on=Chunkgrensen: sichtbaor
+debug.clear_chat.help=F3 + D = Klöönsnak leddern
+debug.copy_location.help=F3 + C = Positschoon as /tp-Befiäl kopeeren of drükt hollen, üm en Abzupp to erdwingen
+debug.copy_location.message=Positschoon wurr in de Twüschaflaag kopeert
+debug.crash.message=F3 + C sünd drükt. Dat warrt dat Speel afstört laten, wan se nich loslaten warrt.
 debug.crash.warning=Ofstörten in %s …
+debug.creative_spectator.help=F3 + N = Cycle previous game mode <-> spectator
+debug.help.help=F3 + Q = Diesse Luiste angeven
+debug.help.message=Tastenbeleggen:
+debug.pause.help=F3 + Esc = Speel sünner Poosmenü anhollen (nöövst mööglich)
+debug.pause_focus.help=F3 + P = Pauseeren bi Fokusvöluorn
 debug.pause_focus.off=Pauseeren bi Fokusvöluorn: deaktiveert
 debug.pause_focus.on=Pauseeren bi Fokusvöluorn: aktiveert
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunks nee laden
 debug.reload_chunks.message=All Chunks warrt nee laden
+debug.reload_resourcepacks.help=F3 + T = Matriaolpakätte nee laden
 debug.reload_resourcepacks.message=Matriaolpakätte wier ladt
+debug.show_hitboxes.help=F3 + B = Hitboxen angeven
 debug.show_hitboxes.off=Hitboxen: vöbuorgen
 debug.show_hitboxes.on=Hitboxen: sichtbaor
+menu.paused=Speel anhollt

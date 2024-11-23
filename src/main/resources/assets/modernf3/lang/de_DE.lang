@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Erweiterte Schnellinfos
 debug.advanced_tooltips.off=Erweiterte Schnellinfos: unsichtbar
 debug.advanced_tooltips.on=Erweiterte Schnellinfos: sichtbar
+debug.chunk_boundaries.help=F3 + G = Chunk‐Grenzen anzeigen
 debug.chunk_boundaries.off=Chunk‐Grenzen: unsichtbar
 debug.chunk_boundaries.on=Chunk‐Grenzen: sichtbar
+debug.clear_chat.help=F3 + D = Chat leeren
+debug.copy_location.help=F3 + C = Position als /tp-Befehl kopieren oder gedrückt halten, um einen Absturz zu erzwingen
+debug.copy_location.message=Position wurde in die Zwischenablage kopiert
+debug.crash.message=F3 + C sind gedrückt. Dies wird das Spiel abstürzen lassen, wenn sie nicht losgelassen werden.
 debug.crash.warning=Absturz in %s …
+debug.creative_spectator.help=F3 + N = Zwischen vorherigem Spielmodus und Zuschauermodus wechseln
+debug.help.help=F3 + Q = Diese Liste anzeigen
+debug.help.message=Tastenbelegung:
+debug.pause.help=F3 + Esc = Spiel ohne Pausenmenü anhalten (sofern möglich)
+debug.pause_focus.help=F3 + P = Pausieren bei Fokusverlust
 debug.pause_focus.off=Pausieren bei Fokusverlust: deaktiviert
 debug.pause_focus.on=Pausieren bei Fokusverlust: aktiviert
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunks neu laden
 debug.reload_chunks.message=Alle Chunks werden neu geladen
+debug.reload_resourcepacks.help=F3 + T = Ressourcenpakete neu laden
 debug.reload_resourcepacks.message=Ressourcenpakete neu geladen
+debug.show_hitboxes.help=F3 + B = Hitboxen anzeigen
 debug.show_hitboxes.off=Hitboxen: unsichtbar
 debug.show_hitboxes.on=Hitboxen: sichtbar
+menu.paused=Spiel angehalten

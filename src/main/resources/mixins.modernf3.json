@@ -9,6 +9,8 @@
   "verbose": true,
   "client": [
     "EntityRendererMixin",
-    "MinecraftMixin"
+    "GuiNewChatMixin",
+    "MinecraftMixin",
+    "PlayerControllerMPMixin"
   ]
 }

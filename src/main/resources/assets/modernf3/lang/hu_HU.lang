@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Bővebb eszközleírások
 debug.advanced_tooltips.off=Technikai eszközleírások: ki
 debug.advanced_tooltips.on=Technikai eszközleírások: be
+debug.chunk_boundaries.help=F3 + G = Chunkhatárok megjelenítése
 debug.chunk_boundaries.off=Chunkhatárok: ki
 debug.chunk_boundaries.on=Chunkhatárok: be
+debug.clear_chat.help=F3 + D = Chatablak törlése
+debug.copy_location.help=F3 + C = Hely másolása /tp parancsként; tartsd lenyomva a játék összeomlásához
+debug.copy_location.message=Koordináták a vágólapra másolva
+debug.crash.message=Lenyomtad az F3 + C kombinációt. Ha nem engeded fel, a játék összeomlik.
 debug.crash.warning=%s másodperc az összeomlásig...
+debug.creative_spectator.help=F3 + N = Előző játékmód és szemlélő mód közti váltás
+debug.help.help=F3 + Q = E lista megjelenítése
+debug.help.message=Billentyűparancsok:
+debug.pause.help=F3 + Esc = Szüneteltetés menü nélkül (ha a játék szüneteltethető)
+debug.pause_focus.help=F3 + P = Szüneteltetés ablakfókusz elvesztésekor
 debug.pause_focus.off=Szüneteltetés fókusz elvesztésekor: ki
 debug.pause_focus.on=Szüneteltetés fókusz elvesztésekor: be
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunkok újratöltése
 debug.reload_chunks.message=Minden chunk újratöltése
+debug.reload_resourcepacks.help=F3 + T = Forráscsomagok újratöltése
 debug.reload_resourcepacks.message=Forráscsomagok újratöltve
+debug.show_hitboxes.help=F3 + B = Határoló téglatestek megjelenítése
 debug.show_hitboxes.off=Határoló téglatestek: ki
 debug.show_hitboxes.on=Határoló téglatestek: be
+menu.paused=Szüneteltetve

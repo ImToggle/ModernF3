@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Geavanceerde tekstballonnen
 debug.advanced_tooltips.off=Geavanceerde tekstballonnen: verborgen
 debug.advanced_tooltips.on=Geavanceerde tekstballonnen: zichtbaar
+debug.chunk_boundaries.help=F3 + G = Chunkgrenzen tonen
 debug.chunk_boundaries.off=Chunkgrenzen: verborgen
 debug.chunk_boundaries.on=Chunkgrenzen: zichtbaar
+debug.clear_chat.help=F3 + D = Chat wissen
+debug.copy_location.help=F3 + C = Locatie als /tp-opdracht kopiëren. Houd F3 + C ingedrukt om het spel te crashen
+debug.copy_location.message=Locatie gekopieerd
+debug.crash.message=F3 + C wordt ingedrukt gehouden. Dit crasht het spel, tenzij de toetsen worden losgelaten.
 debug.crash.warning=Spel crasht in %s...
+debug.creative_spectator.help=F3 + N = Tussen vorige modus en toeschouwermodus wisselen
+debug.help.help=F3 + Q = Deze lijst tonen
+debug.help.message=Toegewezen toetsen:
+debug.pause.help=F3 + Esc = Pauzeren zonder pauzemenu (als pauzeren mogelijk is)
+debug.pause_focus.help=F3 + P = Pauzeren op verliezen van focus
 debug.pause_focus.off=Pauzeren bij verliezen van focus: uitgeschakeld
 debug.pause_focus.on=Pauzeren bij verliezen van focus: ingeschakeld
 debug.prefix=[Debug]:
+debug.reload_chunks.help=F3 + A = Chunks herladen
 debug.reload_chunks.message=Alle chunks aan het herladen
+debug.reload_resourcepacks.help=F3 + T = Bronpakketten herladen
 debug.reload_resourcepacks.message=Bronpakketten herladen
+debug.show_hitboxes.help=F3 + B = Contactvelden tonen
 debug.show_hitboxes.off=Contactvelden: verborgen
 debug.show_hitboxes.on=Contactvelden: zichtbaar
+menu.paused=Spel gepauzeerd

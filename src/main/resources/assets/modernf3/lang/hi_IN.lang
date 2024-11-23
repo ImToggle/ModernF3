@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = उन्नत विवरण
 debug.advanced_tooltips.off=उन्नत विवरण: अदृश्य है
 debug.advanced_tooltips.on=उन्नत विवरण: दृश्य है
+debug.chunk_boundaries.help=F3 + G = खंड की परिसीमा दिखाना
 debug.chunk_boundaries.off=खंड के सीमाएँ: छिपा है
 debug.chunk_boundaries.on=खंड के सीमाएँ: दिखाई दे रहा है
+debug.clear_chat.help=F3 + D = लिखचीत खाली करें
+debug.copy_location.help=F3 + C = /tp समादेश के रूप में स्थान को प्रतिलिपि करें, खेल ध्वंस करने हेतु F3 + C दबाएँ
+debug.copy_location.message=क्लिपबोर्ड पर स्थान की प्रतिलिपि बनाई गई
+debug.crash.message=F3 + C नीचे दबा हुआ है। जब तक आप उसे छोड़ नहीं देएगे, तब ये खेल को क्रैश करेगा।
 debug.crash.warning=%s में ध्वंस होगा...
+debug.creative_spectator.help=F3 + N = साइकिल पिछला गेम मोड <-> दर्शक
+debug.help.help=F3 + Q = यह सूची दिखाएँ
+debug.help.message=कुंजी बाध्यकारी:
+debug.pause.help=F3 + Esc = विराम मेनू के बिना विराम करें (यदि विराम करना संभव है)
+debug.pause_focus.help=F3 + P = फोकस खोने पर गेम को रोकिये
 debug.pause_focus.off=गेम का फोकस खोने पर पॉज़ कीजिये: नहीं
 debug.pause_focus.on=गेम का फोकस खोने पर पॉज़ कीजिये: हा
 debug.prefix=[दोषमार्जन]:
+debug.reload_chunks.help=F3 + A = खंड को पुनः भार करें
 debug.reload_chunks.message=सभी खंड़ो पुनः भार हो रहा है
+debug.reload_resourcepacks.help=F3 + T = साधन संग्रह पुनः भार करना
 debug.reload_resourcepacks.message=रिसोर्स पैक रीलोड हुआ
+debug.show_hitboxes.help=F3 + B = वारजगह दिखाना
 debug.show_hitboxes.off=वारजगह: छिपा है
 debug.show_hitboxes.on=वारजगह: दिखाई दे रहा है
+menu.paused=खेल रुका है

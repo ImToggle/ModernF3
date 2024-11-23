@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Petua alat lanjutan
 debug.advanced_tooltips.off=Petua lanjutan: tersembunyi
 debug.advanced_tooltips.on=Petua lanjutan: ditunjukkan
+debug.chunk_boundaries.help=F3 + G = Tunjukkan sempadan cebisan
 debug.chunk_boundaries.off=Sempadan cebisan: tersembunyi
 debug.chunk_boundaries.on=Sempadan cebisan: ditunjukkan
+debug.clear_chat.help=F3 + D = Kosongkan ruang perbualan
+debug.copy_location.help=F3 + C = Salin lokasi sebagai perintah /tp, tekan F3 + C untuk nahaskan permainan
+debug.copy_location.message=Lokasi disalin ke papan keratan
+debug.crash.message=F3 + C sedang dipegang. Permainan akan dinahaskan melainkan jika butang dilepaskan.
 debug.crash.warning=Nahas dalam %s...
+debug.creative_spectator.help=F3 + N = Kitar mod permainan terakhir <-> penonton
+debug.help.help=F3 + Q = Tunjukkan senarai ini
+debug.help.message=Ikatan kekunci:
+debug.pause.help=F3 + Esc = Jedakan permainan tanpa menu (jika permainan boleh dijeda)
+debug.pause_focus.help=F3 + P = Jeda permainan jika fokus hilang
 debug.pause_focus.off=Jeda permainan jika fokus hilang: dinyahdayakan
 debug.pause_focus.on=Jeda ketika hilang fokus: didayakan
 debug.prefix=[Nyahpepijat]:
+debug.reload_chunks.help=F3 + A = Muat semula cebisan
 debug.reload_chunks.message=Sedang memuatkan semula semua cebisan
+debug.reload_resourcepacks.help=F3 + T = Muat semula pek sumber
 debug.reload_resourcepacks.message=Pek sumber telah dimuatkan semula
+debug.show_hitboxes.help=F3 + B = Tunjukkan hitbox
 debug.show_hitboxes.off=Hitbox: tersembunyi
 debug.show_hitboxes.on=Hitbox: ditunjukkan
+menu.paused=Permainan Dijedakan

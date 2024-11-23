@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Pokročilé popisky
 debug.advanced_tooltips.off=Pokročilé popisky: skryty
 debug.advanced_tooltips.on=Pokročilé popisky: zobrazeny
+debug.chunk_boundaries.help=F3 + G = Zobrazit hranice chunků
 debug.chunk_boundaries.off=Hranice chunků: skryty
 debug.chunk_boundaries.on=Hranice chunků: zobrazeny
+debug.clear_chat.help=F3 + D = Vyčistit chat
+debug.copy_location.help=F3 + C = Kopírovat umístění jako /tp příkaz, přidržení F3 + C násilně ukončí hru
+debug.copy_location.message=Umístění zkopírováno do schránky
+debug.crash.message=Je stisknuta kombinace F3+C. Pokud klávesy neuvolníte, bude hra násilně ukončena.
 debug.crash.warning=Hra se zhroutí za %s…
+debug.creative_spectator.help=F3 + N = Přepínání mezi předchozím typem hry a pozorovací hrou
+debug.help.help=F3 + Q = Zobrazit tento seznam
+debug.help.message=Klávesové zkratky:
+debug.pause.help=F3 + Esc = Pozastavení bez nabídky (pokud je pauza možná)
+debug.pause_focus.help=F3 + P = Pauza při ztrátě zaměření
 debug.pause_focus.off=Pauza při ztrátě zaměření: zakázáno
 debug.pause_focus.on=Pauza při ztrátě zaměření: povoleno
 debug.prefix=[Ladění]:
+debug.reload_chunks.help=F3 + A = Znovu načíst chunky
 debug.reload_chunks.message=Opětovné načítání všech chunků
+debug.reload_resourcepacks.help=F3 + T = Znovu načíst balíčky modifikací
 debug.reload_resourcepacks.message=Balíčky modifikací byly znovu načteny
+debug.show_hitboxes.help=F3 + B = Zobrazit hitboxy
 debug.show_hitboxes.off=Hitboxy: skryty
 debug.show_hitboxes.on=Hitboxy: zobrazeny
+menu.paused=Hra pozastavena

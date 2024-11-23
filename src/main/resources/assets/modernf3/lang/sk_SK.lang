@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Pokročilé popisy
 debug.advanced_tooltips.off=Pokročilý popis: skryté
 debug.advanced_tooltips.on=Pokročilý popis: zobrazené
+debug.chunk_boundaries.help=F3 + G = Zobraziť hranice chunku
 debug.chunk_boundaries.off=Hranice chunkov: skryté
 debug.chunk_boundaries.on=Hranice chunkov: zobrazené
+debug.clear_chat.help=F3 + D = Vyčistiť chat
+debug.copy_location.help=F3 + C = Skopírovať polohu ako /tp príkaz, drž F3 + C pre zlyhanie hry
+debug.copy_location.message=Poloha skopírovaná do schránky
+debug.crash.message=Klávesy F3 + C sú stlačené. Ak nebudú uvoľnené, spôsobí to zlyhanie hry.
 debug.crash.warning=Zlyhanie hry o: %s...
+debug.creative_spectator.help=F3 + N = Prepnúť medzi predošlým režimom a režimom diváka
+debug.help.help=F3 + Q = Zobraziť tento zoznam
+debug.help.message=Klávesové skratky:
+debug.pause.help=F3 + Esc = Pauza bez menu (ak je pauza možná)
+debug.pause_focus.help=F3 + P = Pauza pri strate fokusu
 debug.pause_focus.off=Pauza pri strate fokusu: zakázané
 debug.pause_focus.on=Pauza pri strate fokusu: povolené
 debug.prefix=[Ladenie]:
+debug.reload_chunks.help=F3 + A = Znova načítať chunky
 debug.reload_chunks.message=Opätovné načítanie všetkých chunkov
+debug.reload_resourcepacks.help=F3 + T = Znova načítať zdrojové balíky
 debug.reload_resourcepacks.message=Zdrojové balíky boli znova načítané
+debug.show_hitboxes.help=F3 + B = Zobraziť hitboxy
 debug.show_hitboxes.off=Hitboxy: skryté
 debug.show_hitboxes.on=Hitboxy: zobrazené
+menu.paused=Hra pozastavená

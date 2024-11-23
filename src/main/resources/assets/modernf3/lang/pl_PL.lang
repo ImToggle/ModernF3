@@ -1,12 +1,27 @@
+debug.advanced_tooltips.help=F3 + H = Zaawansowane etykiety
 debug.advanced_tooltips.off=Zaawansowane etykiety: ukryte
 debug.advanced_tooltips.on=Zaawansowane etykiety: widoczne
+debug.chunk_boundaries.help=F3 + G = Pokaż granice chunków
 debug.chunk_boundaries.off=Granice chunków: ukryte
 debug.chunk_boundaries.on=Granice chunków: widoczne
+debug.clear_chat.help=F3 + D = Wyczyść czat
+debug.copy_location.help=F3 + C = Kopiowanie lokalizacji jako polecenia /tp; przytrzymaj F3 + C, aby spowodować awarię gry
+debug.copy_location.message=Skopiowano położenie do schowka
+debug.crash.message=Kombinacja F3 + C jest wciśnięta. To spowoduje awarię gry, jeżeli nie puścisz klawiszy.
 debug.crash.warning=Awaria za %s…
+debug.creative_spectator.help=F3 + N = Przełącz poprzedni tryb gry <-> tryb widza
+debug.help.help=F3 + Q = Pokaż tę listę
+debug.help.message=Przypisane klawisze:
+debug.pause.help=F3 + Esc = Wstrzymaj, nie wyświetlając menu pauzy (jeśli pauza jest możliwa)
+debug.pause_focus.help=F3 + P = Pauza po opuszczeniu okna gry
 debug.pause_focus.off=Pauza po opuszczeniu okna gry: wyłączona
 debug.pause_focus.on=Pauza po opuszczeniu okna gry: włączona
 debug.prefix=[Debugowanie]:
+debug.reload_chunks.help=F3 + A = Przeładuj chunki
 debug.reload_chunks.message=Przeładowywanie wszystkich chunków
+debug.reload_resourcepacks.help=F3 + T = Przeładuj paczki zasobów
 debug.reload_resourcepacks.message=Przeładowano paczki zasobów
+debug.show_hitboxes.help=F3 + B = Pokaż hitboxy
 debug.show_hitboxes.off=Hitboxy: ukryte
 debug.show_hitboxes.on=Hitboxy: widoczne
+menu.paused=Gra wstrzymana
