@@ -12,5 +12,8 @@
     "GuiNewChatMixin",
     "MinecraftMixin",
     "PlayerControllerMPMixin"
+  ],
+  "mixins": [
+    "OneKeyBindMixin"
   ]
 }

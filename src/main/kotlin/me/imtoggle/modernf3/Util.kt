@@ -176,3 +176,11 @@ fun gameModeChange(gameMode: GameType) {
     if (gameMode.id != 3) lastMode = gameMode.id
     if (lastMode == -1) lastMode = 1
 }
+
+fun shouldCancel(keys: ArrayList<Int>): Boolean {
+    if (!Keyboard.isKeyDown(61)) return false
+    for (i in keys) {
+        if (i in functionKeys) return true
+    }
+    return false
+}
