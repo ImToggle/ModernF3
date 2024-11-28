@@ -17,11 +17,11 @@ Backport F3 features from modern versions.
 
 Chunk Borders
 
-![Chunk Borders.png](screenshots/Chunk Borders.png)
+![Chunk Borders.png](screenshots/ChunkBorders.png)
 
 Debug Messages
 
-![Debug Messages.png](screenshots/Debug Messages.png)
+![Debug Messages.png](screenshots/DebugMessages.png)
 
 All Languages Translation
 
