@@ -1,6 +1,12 @@
-# ModernF3
+<a href="https://ko-fi.com/imtoggle" target="_blank">
+  <img alt="kofi-singular-alt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg">
+</a>
 
-![Minimal Powered by OneConfig](https://polyfrost.org/img/cozy-minimal_vector.svg)
+<a href="https://modrinth.com/mod/oneconfig" target="_blank">
+  <img alt="oneconfig" height="56" src="https://polyfrost.org/media/branding/badges/badge_1.svg">
+</a>
+
+# ModernF3
 
 Backport F3 features from modern versions.
 
