@@ -9,8 +9,8 @@ object ModernF3 {
     const val NAME = "@NAME@"
     const val VERSION = "@VER@"
 
-//    @Mod.EventHandler
-//    fun onInit(event: FMLInitializationEvent) {
-//        ModConfig
-//    }
+    @Mod.EventHandler
+    fun onInit(event: FMLInitializationEvent) {
+        ModConfig
+    }
 }

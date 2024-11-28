@@ -1,6 +1,7 @@
 package me.imtoggle.modernf3.renderer
 
 import cc.polyfrost.oneconfig.utils.dsl.mc
+import me.imtoggle.modernf3.ModConfig
 import net.minecraft.client.renderer.GlStateManager
 import net.minecraft.client.renderer.Tessellator
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats
@@ -16,12 +17,16 @@ object ChunkBorderRenderer {
 
     private val YELLOW = Color(255, 255, 0, 255)
 
+    private val GRID
+        get() = if (ModConfig.chunkBorderGrid) 2 else 1
+
     fun toggle(): Boolean {
         shouldRender = !shouldRender
         return shouldRender
     }
 
     fun render(partialTicks: Float) {
+        if (mc.gameSettings.reducedDebugInfo) return
         if (!shouldRender) return
         val entity = mc.renderViewEntity ?: return
         val tessellator = Tessellator.getInstance()
@@ -47,8 +52,10 @@ object ChunkBorderRenderer {
             }
         }
 
-        for (k in 2..<16 step 2) {
-            val color = if (k % 4 == 0) CELL_BORDER else YELLOW
+        val gird = GRID
+
+        for (k in gird..<16 step gird) {
+            val color = if (k % 4 == 0 && ModConfig.useModernColor) CELL_BORDER else YELLOW
             worldRenderer.pos(d5 + k.toDouble(), d3, d6).color(1.0f, 1.0f, 0.0f, 0.0f).endVertex()
             worldRenderer.pos(d5 + k.toDouble(), d3, d6).color(color.red, color.green, color.blue, color.alpha).endVertex()
             worldRenderer.pos(d5 + k.toDouble(), d4, d6).color(color.red, color.green, color.blue, color.alpha).endVertex()
@@ -59,8 +66,8 @@ object ChunkBorderRenderer {
             worldRenderer.pos(d5 + k.toDouble(), d4, d6 + 16.0).color(1.0f, 1.0f, 0.0f, 0.0f).endVertex()
         }
 
-        for (l in 2..<16 step 2) {
-            val color = if (l % 4 == 0) CELL_BORDER else YELLOW
+        for (l in gird..<16 step gird) {
+            val color = if (l % 4 == 0 && ModConfig.useModernColor) CELL_BORDER else YELLOW
             worldRenderer.pos(d5, d3, d6 + l.toDouble()).color(1.0f, 1.0f, 0.0f, 0.0f).endVertex()
             worldRenderer.pos(d5, d3, d6 + l.toDouble()).color(color.red, color.green, color.blue, color.alpha).endVertex()
             worldRenderer.pos(d5, d4, d6 + l.toDouble()).color(color.red, color.green, color.blue, color.alpha).endVertex()
@@ -71,9 +78,9 @@ object ChunkBorderRenderer {
             worldRenderer.pos(d5 + 16.0, d4, d6 + l.toDouble()).color(1.0f, 1.0f, 0.0f, 0.0f).endVertex()
         }
 
-        for (i1 in 0..256 step 2) {
+        for (i1 in 0..256 step gird) {
             val d7 = i1.toDouble() - d1
-            val color = if (i1 % 8 == 0) CELL_BORDER else YELLOW
+            val color = if (i1 % 8 == 0 && ModConfig.useModernColor) CELL_BORDER else YELLOW
             worldRenderer.pos(d5, d7, d6).color(1.0f, 1.0f, 0.0f, 0.0f).endVertex()
             worldRenderer.pos(d5, d7, d6).color(color.red, color.green, color.blue, color.alpha).endVertex()
             worldRenderer.pos(d5, d7, d6 + 16.0).color(color.red, color.green, color.blue, color.alpha).endVertex()

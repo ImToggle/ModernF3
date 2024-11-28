@@ -34,6 +34,20 @@ private var currentMode = -1
 
 private var lastMode = -1
 
+private val HELP_LIST = listOf(
+    "debug.reload_chunks.help",
+    "debug.show_hitboxes.help",
+    "debug.copy_location.help",
+    "debug.clear_chat.help",
+    "debug.chunk_boundaries.help",
+    "debug.advanced_tooltips.help",
+    "debug.creative_spectator.help",
+    "debug.pause_focus.help",
+    "debug.help.help",
+    "debug.reload_resourcepacks.help",
+    "debug.pause.help"
+)
+
 @JvmField
 var keepSentMessage = false
 
@@ -42,6 +56,8 @@ var isPausing = false
 
 fun onTick() {
     val currentTime = Minecraft.getSystemTime()
+
+    val f3Pressed = Keyboard.isKeyDown(61)
 
     if (crashStart > 0L) {
         if (Minecraft.getSystemTime() - crashStart >= 10000L) {
@@ -61,16 +77,16 @@ fun onTick() {
             }
         }
 
-        if (!Keyboard.isKeyDown(46) || !Keyboard.isKeyDown(61)) {
+        if (!Keyboard.isKeyDown(46) || !f3Pressed) {
             crashStart = -1L
             reported = false
         }
-    } else if (Keyboard.isKeyDown(46) && Keyboard.isKeyDown(61)) {
+    } else if (Keyboard.isKeyDown(46) && f3Pressed) {
         crashStart = currentTime
         reportTime = currentTime + 1000
     }
 
-    if (Keyboard.isKeyDown(61)) {
+    if (f3Pressed) {
         pauseTime = currentTime + 400
     }
 
@@ -106,26 +122,12 @@ fun keyPress(key: Int, state: Boolean): Boolean {
         when(key) {
             16 -> {
                 sendDebugMessage(I18n.format("debug.help.message"))
-                UChat.chat(I18n.format("debug.reload_chunks.help"))
-                UChat.chat(I18n.format("debug.show_hitboxes.help"))
-                UChat.chat(I18n.format("debug.copy_location.help"))
-                UChat.chat(I18n.format("debug.clear_chat.help"))
-                UChat.chat(I18n.format("debug.chunk_boundaries.help"))
-                UChat.chat(I18n.format("debug.advanced_tooltips.help"))
-//                UChat.chat(I18n.format("debug.inspect.help"))
-//                UChat.chat(I18n.format("debug.profiling.help"))
-                UChat.chat(I18n.format("debug.creative_spectator.help"))
-                UChat.chat(I18n.format("debug.pause_focus.help"))
-                UChat.chat(I18n.format("debug.help.help"))
-//                UChat.chat(I18n.format("debug.dump_dynamic_textures.help"))
-                UChat.chat(I18n.format("debug.reload_resourcepacks.help"))
-                UChat.chat(I18n.format("debug.pause.help"))
-//                UChat.chat(I18n.format("debug.gamemodes.help"))
+                HELP_LIST.forEach { UChat.chat(I18n.format(it)) }
             }
             32 -> if (mc.ingameGUI == null) {
                 shouldCancel = true
             } else {
-                keepSentMessage = true
+                keepSentMessage = ModConfig.keepInputHistory
             }
             34 -> sendDebugMessage(I18n.format(if (ChunkBorderRenderer.toggle()) "debug.chunk_boundaries.on" else "debug.chunk_boundaries.off"))
             46 -> {
@@ -133,11 +135,7 @@ fun keyPress(key: Int, state: Boolean): Boolean {
                 sendDebugMessage(I18n.format("debug.copy_location.message"))
             }
             49 -> {
-                if (currentMode == 3) {
-                    UChat.say("/gamemode $lastMode")
-                } else {
-                    UChat.say("/gamemode 3")
-                }
+                UChat.say("/gamemode ${if (currentMode == 3) lastMode else 3}")
             }
         }
     }
